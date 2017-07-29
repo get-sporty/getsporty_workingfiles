@@ -1,0 +1,479 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "igti-4f4a",
+      "name" : "Basketball Courts",
+      "attribution" : "ACT Government",
+      "averageRating" : 0,
+      "category" : "Sport and Recreation",
+      "createdAt" : 1425524232,
+      "description" : "Locations of the public basketball courts across Canberra.",
+      "displayType" : "table",
+      "downloadCount" : 1473,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1501201988,
+      "licenseId" : "CC_40_BY",
+      "locale" : "",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 11943476,
+      "provenance" : "official",
+      "publicationAppendEnabled" : true,
+      "publicationDate" : 1435275922,
+      "publicationGroup" : 2405653,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1495184601,
+      "rowsUpdatedBy" : "m7km-7fxa",
+      "tableId" : 3304139,
+      "totalTimesRated" : 0,
+      "viewCount" : 3210,
+      "viewLastModified" : 1501231697,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 210192593,
+        "name" : "ID",
+        "dataTypeName" : "text",
+        "fieldName" : "id",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 26073379,
+        "width" : 124,
+        "cachedContents" : {
+          "largest" : "Bskt9",
+          "non_null" : 43,
+          "null" : 0,
+          "top" : [ {
+            "item" : "Bskt28",
+            "count" : 20
+          }, {
+            "item" : "Bskt39",
+            "count" : 19
+          } ],
+          "smallest" : "Bskt1"
+        },
+        "format" : { }
+      }, {
+        "id" : 210192594,
+        "name" : "TYPE",
+        "dataTypeName" : "text",
+        "fieldName" : "type",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 26073380,
+        "width" : 148,
+        "cachedContents" : {
+          "largest" : "Single Court",
+          "non_null" : 43,
+          "null" : 0,
+          "top" : [ {
+            "item" : "Single Court",
+            "count" : 20
+          }, {
+            "item" : "Double Court",
+            "count" : 19
+          }, {
+            "item" : "Half Court",
+            "count" : 18
+          }, {
+            "item" : "4 Way Hoop",
+            "count" : 17
+          } ],
+          "smallest" : "4 Way Hoop"
+        },
+        "format" : { }
+      }, {
+        "id" : 210192595,
+        "name" : "DIVISION",
+        "dataTypeName" : "text",
+        "fieldName" : "division",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 26073381,
+        "width" : 196,
+        "cachedContents" : {
+          "largest" : "Weston",
+          "non_null" : 43,
+          "null" : 0,
+          "top" : [ {
+            "item" : "Ainslie",
+            "count" : 20
+          }, {
+            "item" : "Belconnen",
+            "count" : 19
+          }, {
+            "item" : "Bonython",
+            "count" : 18
+          }, {
+            "item" : "Chifley",
+            "count" : 17
+          }, {
+            "item" : "City",
+            "count" : 16
+          }, {
+            "item" : "Deakin",
+            "count" : 15
+          }, {
+            "item" : "Duffy",
+            "count" : 14
+          }, {
+            "item" : "Dunlop",
+            "count" : 13
+          }, {
+            "item" : "Evatt",
+            "count" : 12
+          }, {
+            "item" : "Flynn",
+            "count" : 11
+          }, {
+            "item" : "Forde",
+            "count" : 10
+          }, {
+            "item" : "Gordon",
+            "count" : 9
+          }, {
+            "item" : "Greenway",
+            "count" : 8
+          }, {
+            "item" : "Gungahlin",
+            "count" : 7
+          }, {
+            "item" : "Hackett",
+            "count" : 6
+          }, {
+            "item" : "Harrison",
+            "count" : 5
+          }, {
+            "item" : "Kambah",
+            "count" : 4
+          }, {
+            "item" : "Kingston",
+            "count" : 3
+          }, {
+            "item" : "Lyneham",
+            "count" : 2
+          }, {
+            "item" : "Lyons",
+            "count" : 1
+          } ],
+          "smallest" : "Ainslie"
+        },
+        "format" : { }
+      }, {
+        "id" : 210192596,
+        "name" : "LOCATION",
+        "dataTypeName" : "text",
+        "fieldName" : "location",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 26073382,
+        "width" : 196,
+        "cachedContents" : {
+          "largest" : "Yerrabi District Park",
+          "non_null" : 43,
+          "null" : 0,
+          "top" : [ {
+            "item" : "Kambah District Park",
+            "count" : 20
+          }, {
+            "item" : "Lyrebird Place Pedestrian Parkland",
+            "count" : 19
+          } ],
+          "smallest" : "Alston Street Neighbourhood Park"
+        },
+        "format" : { }
+      }, {
+        "id" : 210192599,
+        "name" : "IMAGE_LINK",
+        "dataTypeName" : "url",
+        "fieldName" : "image_link",
+        "position" : 6,
+        "renderTypeName" : "url",
+        "tableColumnId" : 26073383,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 43
+        },
+        "format" : { },
+        "subColumnTypes" : [ "url", "description" ]
+      }, {
+        "id" : 210192602,
+        "name" : "VIDEO_LINK",
+        "dataTypeName" : "url",
+        "fieldName" : "video_link",
+        "position" : 7,
+        "renderTypeName" : "url",
+        "tableColumnId" : 26073384,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 0,
+          "null" : 43
+        },
+        "format" : { },
+        "subColumnTypes" : [ "url", "description" ]
+      }, {
+        "id" : 210192604,
+        "name" : "LATITUDE",
+        "dataTypeName" : "number",
+        "fieldName" : "latitude",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 26073386,
+        "width" : 196,
+        "cachedContents" : {
+          "largest" : "-35.157396",
+          "non_null" : 43,
+          "average" : "-35.30819074418605",
+          "null" : 0,
+          "top" : [ {
+            "item" : "-35.323883",
+            "count" : 20
+          }, {
+            "item" : "-35.193455",
+            "count" : 19
+          } ],
+          "smallest" : "-35.456377",
+          "sum" : "-1518.252202"
+        },
+        "format" : { }
+      }, {
+        "id" : 210192607,
+        "name" : "LONGITUDE",
+        "dataTypeName" : "number",
+        "fieldName" : "longitude",
+        "position" : 10,
+        "renderTypeName" : "number",
+        "tableColumnId" : 26073387,
+        "width" : 208,
+        "cachedContents" : {
+          "largest" : "149.227383",
+          "non_null" : 43,
+          "average" : "149.0901815348837",
+          "null" : 0,
+          "top" : [ {
+            "item" : "148.941168",
+            "count" : 20
+          }, {
+            "item" : "149.106676",
+            "count" : 19
+          } ],
+          "smallest" : "148.941168",
+          "sum" : "6410.877806"
+        },
+        "format" : { }
+      }, {
+        "id" : 210192609,
+        "name" : "Location_1",
+        "dataTypeName" : "location",
+        "fieldName" : "location_1",
+        "position" : 11,
+        "renderTypeName" : "location",
+        "tableColumnId" : 28790327,
+        "width" : 100,
+        "cachedContents" : {
+          "largest" : {
+            "latitude" : "-35.337649",
+            "longitude" : "149.053683"
+          },
+          "non_null" : 43,
+          "null" : 0,
+          "top" : [ {
+            "item" : {
+              "latitude" : "-35.323883",
+              "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+              "longitude" : "148.941168"
+            },
+            "count" : 20
+          }, {
+            "item" : {
+              "latitude" : "-35.193455",
+              "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+              "longitude" : "149.106676"
+            },
+            "count" : 19
+          } ],
+          "smallest" : {
+            "latitude" : "-35.392427",
+            "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}",
+            "longitude" : "149.062302"
+          }
+        },
+        "format" : { },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Creative Commons Attribution 4.0 International",
+        "logoUrl" : "images/licenses/cc30by.png",
+        "termsLink" : "http://creativecommons.org/licenses/by/4.0/legalcode"
+      },
+      "metadata" : {
+        "rdfClass" : "",
+        "rdfSubject" : "0",
+        "custom_fields" : {
+          "Contributing Agency" : {
+            "Contact Email" : "tamsdspatial@act.gov.au",
+            "Agency Name" : "Parks and City Services",
+            "Directorate" : "Transport Canberra and City Services"
+          }
+        },
+        "rowIdentifier" : "0",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rowLabel" : "",
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "m7km-7fxa",
+        "displayName" : "TAMS",
+        "lastNotificationSeenAt" : 1496197272,
+        "profileImageUrlLarge" : "/api/users/m7km-7fxa/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/m7km-7fxa/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/m7km-7fxa/profile_images/TINY",
+        "roleName" : "editor",
+        "screenName" : "TAMS",
+        "rights" : [ "create_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards", "view_story", "view_unpublished_story" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "m7km-7fxa",
+        "displayName" : "TAMS",
+        "lastNotificationSeenAt" : 1496197272,
+        "profileImageUrlLarge" : "/api/users/m7km-7fxa/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/m7km-7fxa/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/m7km-7fxa/profile_images/TINY",
+        "roleName" : "editor",
+        "screenName" : "TAMS",
+        "rights" : [ "create_datasets", "view_domain", "create_pages", "view_goals", "view_dashboards", "view_story", "view_unpublished_story" ]
+      },
+      "tags" : [ "courts", "basketball", "govhack-community" ],
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ 1, "64BC7DB6-24B6-4199-A01E-4522C38E4245", 1, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt2", "Single Court", "Ainslie", "Corroboree Park", [ null, null ], [ null, null ], "-35.268338", "149.141855", [ null, "-35.268338", "149.141855", null, false ] ]
+, [ 2, "1896DABE-4EB7-4E59-8275-A2555063756B", 2, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt29", "Double Court", "Belconnen", "John Knight Memorial Park", [ null, null ], [ null, null ], "-35.237826", "149.074645", [ null, "-35.237826", "149.074645", null, false ] ]
+, [ 3, "2943D2DA-85E1-427E-978E-E2A0106D2325", 3, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt17", "Half Court", "Bonython", "Burgoyne Street Neighbourhood Park", [ null, null ], [ null, null ], "-35.426712", "149.07164", [ null, "-35.426712", "149.07164", null, false ] ]
+, [ 4, "272CFBE1-BE85-4A22-9069-71792BEFA948", 4, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt24", "Half Court", "Chifley", "Shann Place  Neighbourhood Park", [ null, null ], [ null, null ], "-35.352159", "149.077012", [ null, "-35.352159", "149.077012", null, false ] ]
+, [ 5, "8FE76A81-E577-402F-BB18-030260293C1F", 5, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt27", "Half Court", "City", "City Youth Centre Basket Ball Court", [ null, null ], [ null, null ], "-35.277923", "149.134538", [ null, "-35.277923", "149.134538", null, false ] ]
+, [ 6, "A03495B9-32A8-48DA-A9D0-0844FB912FE2", 6, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt14", "Single Court", "Deakin", "Lawley Street - Neighbourhood Park", [ null, null ], [ null, null ], "-35.319147", "149.100659", [ null, "-35.319147", "149.100659", null, false ] ]
+, [ 7, "CDFCA3E8-E423-41A0-9453-BFC5197ACF2A", 7, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt4", "Half Court", "Deakin", "Hannah Place - Pedestrian Parkland", [ null, null ], [ null, null ], "-35.314768", "149.10579", [ null, "-35.314768", "149.10579", null, false ] ]
+, [ 8, "712D7C55-26DF-42DA-B20F-CB9E33A3BA47", 8, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt33", "Half Court", "Duffy", "Cargelligo Street Pedestrian Parkland", [ null, null ], [ null, null ], "-35.334126", "149.030598", [ null, "-35.334126", "149.030598", null, false ] ]
+, [ 9, "A7138144-8FB3-4656-B688-77CCE23C1717", 9, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt21", "Half Court", "Dunlop", "Percy Pegg Circuit Neighbourhood Park", [ null, null ], [ null, null ], "-35.188399", "149.017748", [ null, "-35.188399", "149.017748", null, false ] ]
+, [ 10, "3A8C3819-BD27-4D58-9E9F-DBD0C6F76D77", 10, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt12", "Half Court", "Evatt", "Kingston Street Pedestrian Parkland", [ null, null ], [ null, null ], "-35.209532", "149.077357", [ null, "-35.209532", "149.077357", null, false ] ]
+, [ 11, "14AD0AFF-FA6C-4FD0-911F-B5F232105E83", 11, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt11", "Single Court", "Flynn", "Blackwell Circuit Neighbourhood Park", [ null, null ], [ null, null ], "-35.206624", "149.038999", [ null, "-35.206624", "149.038999", null, false ] ]
+, [ 12, "73A6DB02-542C-4BD2-A5E9-AC92DCC41C54", 12, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt22", "Half Court", "Forde", "Amy Ackman Street Neighbourhood Park", [ null, null ], [ null, null ], "-35.16785", "149.143869", [ null, "-35.16785", "149.143869", null, false ] ]
+, [ 13, "300F3C93-C32F-486F-855F-F7C1781256B5", 13, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt31", "Half Court", "Forde", "Mulligans Flat Road Pedestrian Parkland", [ null, null ], [ null, null ], "-35.157396", "149.150881", [ null, "-35.157396", "149.150881", null, false ] ]
+, [ 14, "2067071E-FA1F-4D3F-A7CF-65A6FF29620F", 14, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt6", "Single Court", "Gordon", "Point Hut District Park", [ null, null ], [ null, null ], "-35.456377", "149.084235", [ null, "-35.456377", "149.084235", null, false ] ]
+, [ 15, "B22E27B8-2E11-4144-9349-447AC3DC1F04", 15, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt5", "Half Court", "Greenway", "Lake Tuggeranong District Park", [ null, null ], [ null, null ], "-35.402904", "149.071724", [ null, "-35.402904", "149.071724", null, false ] ]
+, [ 16, "F3406BE1-08D7-4178-9AF0-801005F4464C", 16, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt18", "Single Court", "Gungahlin", "Yerrabi District Park", [ null, null ], [ null, null ], "-35.179882", "149.129916", [ null, "-35.179882", "149.129916", null, false ] ]
+, [ 17, "70E4B38D-DC57-4A85-987F-377944A800FC", 17, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt13", "Half Court", "Hackett", "Brennan Street  Neighbourhood Park", [ null, null ], [ null, null ], "-35.253398", "149.165685", [ null, "-35.253398", "149.165685", null, false ] ]
+, [ 18, "17262CD5-E1DE-4528-83BE-1D313CA36A8A", 18, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt3", "Half Court", "Harrison", "Helby Street Neighbourhood Park", [ null, null ], [ null, null ], "-35.20798", "149.160242", [ null, "-35.20798", "149.160242", null, false ] ]
+, [ 19, "C3E25A69-48B2-4E0F-B2FD-BCF0DF9E04E8", 19, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt23", "Half Court", "Kambah", "Boddington Crescent Neighbourhood Park", [ null, null ], [ null, null ], "-35.383505", "149.052571", [ null, "-35.383505", "149.052571", null, false ] ]
+, [ 20, "47B8B8EB-E5BD-421D-955F-187D57862495", 20, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt9", "4 Way Hoop", "Kambah", "Attiwell Circuit - Neighbourhood Park", [ null, null ], [ null, null ], "-35.377732", "149.053236", [ null, "-35.377732", "149.053236", null, false ] ]
+, [ 21, "89F7FB04-F386-45EA-8971-EF9DE6BCEF55", 21, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt8", "4 Way Hoop", "Kambah", "Rundle Place - Neighbourhood Park", [ null, null ], [ null, null ], "-35.372251", "149.062246", [ null, "-35.372251", "149.062246", null, false ] ]
+, [ 22, "D87FA8A6-B477-4294-ABA8-0F48D6019BE5", 22, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt7", "4 Way Hoop", "Kambah", "Boddington Crescent - Neighbourhood Park", [ null, null ], [ null, null ], "-35.389103", "149.051935", [ null, "-35.389103", "149.051935", null, false ] ]
+, [ 23, "3EEDF62B-9AC6-45A7-8843-939DE70349AA", 23, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt15", "Half Court", "Kingston", "Sandalwood Street - Neighbourhood Park", [ null, null ], [ null, null ], "-35.31666", "149.152879", [ null, "-35.31666", "149.152879", null, false ] ]
+, [ 24, "C142CA0D-8973-4AE4-B829-1F6EDF73EAF9", 24, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt20", "Double Court", "Lyneham", "Lambert Place - Road Verge", [ null, null ], [ null, null ], "-35.247334", "149.120967", [ null, "-35.247334", "149.120967", null, false ] ]
+, [ 25, "04252654-7972-4949-9370-D583549F87F6", 25, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt10", "4 Way Hoop", "Lyons", "Devonport Street - Neighbourhood Park", [ null, null ], [ null, null ], "-35.336639", "149.073916", [ null, "-35.336639", "149.073916", null, false ] ]
+, [ 26, "391F0352-4712-41BB-8826-84481D994B80", 26, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt25", "Single Court", "Macarthur", "Hawkesworth Place - Neighbourhood Park", [ null, null ], [ null, null ], "-35.408123", "149.129002", [ null, "-35.408123", "149.129002", null, false ] ]
+, [ 27, "C26DE47B-BB13-4FF5-AD6A-CA62DA399686", 27, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt16", "Half Court", "Macgregor", "Clyde Finlay Street Neighbourhood Park", [ null, null ], [ null, null ], "-35.20853", "149.001871", [ null, "-35.20853", "149.001871", null, false ] ]
+, [ 28, "E1740624-DA8C-4EB6-9131-9DE2890CC4EA", 28, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt30", "Single Court", "Narrabundah", "Kootara Crescent", [ null, null ], [ null, null ], "-35.330285", "149.151911", [ null, "-35.330285", "149.151911", null, false ] ]
+, [ 29, "19DFD10A-B606-4DA8-BB0F-51BD7B63CE71", 29, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt32", "Single Court", "O'connor", "Cockle Street  Pedestrian Parkland", [ null, null ], [ null, null ], "-35.264871", "149.113599", [ null, "-35.264871", "149.113599", null, false ] ]
+, [ 30, "49B92501-B5DC-4400-96A5-8EA8D09F99A9", 30, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt26", "4 Way Hoop", "Oaks Estate", "River Street Neighbourhood Park", [ null, null ], [ null, null ], "-35.341884", "149.227383", [ null, "-35.341884", "149.227383", null, false ] ]
+, [ 32, "C5099306-4136-4333-BE14-0231DB91697D", 32, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt19", "Half Court", "Phillip", "Edison District Park", [ null, null ], [ null, null ], "-35.339862", "149.091642", [ null, "-35.339862", "149.091642", null, false ] ]
+, [ 33, "E8F12326-434D-4100-A85B-D2EF5E83F8E1", 33, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt36", "Half Court", "Wanniassa", "Lansell Circuit Pedestrian Parkland", [ null, null ], [ null, null ], "-35.404784", "149.103042", [ null, "-35.404784", "149.103042", null, false ] ]
+, [ 34, "8D51E3D7-A580-4F67-A172-2EDAE761024E", 34, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt34", "Half Court", "Waramanga", "Malara Street Neighbourhood Park", [ null, null ], [ null, null ], "-35.350207", "149.061227", [ null, "-35.350207", "149.061227", null, false ] ]
+, [ 35, "689C3EA1-99E3-4665-AF0E-AA9056651325", 35, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt35", "Half Court", "Waramanga", "Nemarang Crescent Neighbourhood Park", [ null, null ], [ null, null ], "-35.357267", "149.063593", [ null, "-35.357267", "149.063593", null, false ] ]
+, [ 36, "291BF424-935C-4919-A5D8-84F9B99B91EB", 36, 1435250691, "913938", 1435250691, "913938", "{\n}", "Bskt1", "Half Court", "Weston", "Dillon Close - Pedestrian Parkland", [ null, null ], [ null, null ], "-35.337649", "149.053683", [ null, "-35.337649", "149.053683", null, false ] ]
+, [ 39, "5EF603CF-566F-4C14-A94E-44E1715C1C07", 39, 1438879475, "913938", 1438879475, "913938", null, "Bskt38", "4 Way Hoop", "Kambah", "Kambah District Park", [ null, null ], [ null, null ], "-35.392427", "149.062302", [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-35.392427", "149.062302", null, false ] ]
+, [ 40, "CC48053D-6357-42FF-BCA6-064888C41D37", 40, 1438879475, "913938", 1438879475, "913938", null, "Bskt41", "Half Court", "Ngunnawal", "Gadali Crescent Pedestrian Parkland", [ null, null ], [ null, null ], "-35.180051", "149.119613", [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-35.180051", "149.119613", null, false ] ]
+, [ 41, "4FEE830A-DC8B-4B0F-8090-650E84654349", 41, 1438879475, "913938", 1438879475, "913938", null, "Bskt40", "Half Court", "Chisholm", "Alston Street Neighbourhood Park", [ null, null ], [ null, null ], "-35.42128", "149.122054", [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-35.42128", "149.122054", null, false ] ]
+, [ 42, "3946D98E-D1C7-4B4A-8999-EF26984F5251", 42, 1438879475, "913938", 1438879475, "913938", null, "Bskt42", "4 Way Hoop", "Charnwood", "Packham Place Neighbourhood Park", [ null, null ], [ null, null ], "-35.201965", "149.038737", [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-35.201965", "149.038737", null, false ] ]
+, [ 43, "E968FB87-583A-4F0C-9A75-46888102C7BC", 43, 1438879475, "913938", 1438879475, "913938", null, "Bskt37", "4 Way Hoop", "Kambah", "Kambah District Park", [ null, null ], [ null, null ], "-35.392426", "149.062122", [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-35.392426", "149.062122", null, false ] ]
+, [ 44, "A476941A-598A-44CA-9E70-9BCB73502006", 44, 1447113870, "913938", 1447113870, "913938", null, "Bskt43", "Half Court", "Monash", "Griffin Place Pedestrian Parkland", [ null, null ], [ null, null ], "-35.418688", "149.083038", [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-35.418688", "149.083038", null, false ] ]
+, [ 45, "62FDEA37-536C-4B0E-8DE9-FB03E7956440", 45, 1481788946, "913938", 1481788946, "913938", null, "Bskt28", "Half Court", "Paddys River (Rural Dist.)", "Coree - Cotter Road", [ null, null ], [ null, null ], "-35.323883", "148.941168", [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-35.323883", "148.941168", null, false ] ]
+, [ 46, "555DD589-D2E1-40C6-A55C-5832FA53B657", 46, 1495184601, "913938", 1495184601, "913938", null, "Bskt39", "Single Court", "Nicholls", "Lyrebird Place Pedestrian Parkland", [ null, null ], [ null, null ], "-35.193455", "149.106676", [ "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}", "-35.193455", "149.106676", null, false ] ]
+ ]
+}

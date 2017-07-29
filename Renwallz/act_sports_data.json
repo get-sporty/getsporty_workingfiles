@@ -1,0 +1,1481 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "a843-6epj",
+      "name" : "Sports Grounds In The ACT",
+      "attribution" : "ACT Government",
+      "averageRating" : 0,
+      "category" : "Sport and Recreation",
+      "createdAt" : 1392183650,
+      "description" : "A list of the sports and recreation grounds in the ACT.",
+      "displayType" : "table",
+      "downloadCount" : 341,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1501262596,
+      "licenseId" : "CC_40_BY",
+      "locale" : "",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7344638,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1392254564,
+      "publicationGroup" : 1473783,
+      "publicationStage" : "published",
+      "rowClass" : "",
+      "rowsUpdatedAt" : 1392254483,
+      "rowsUpdatedBy" : "cqpn-mbgv",
+      "tableId" : 1474793,
+      "totalTimesRated" : 0,
+      "viewCount" : 346,
+      "viewLastModified" : 1501206125,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 133237408,
+        "name" : "Zone",
+        "dataTypeName" : "text",
+        "fieldName" : "zone",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18069822,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 122,
+          "largest" : "Woden",
+          "null" : 0,
+          "top" : [ {
+            "item" : "Inner North",
+            "count" : 20
+          }, {
+            "item" : "Gungahlin",
+            "count" : 19
+          }, {
+            "item" : "Belconnen",
+            "count" : 18
+          }, {
+            "item" : "Tuggeranong",
+            "count" : 17
+          }, {
+            "item" : "Weston",
+            "count" : 16
+          }, {
+            "item" : "Woden",
+            "count" : 15
+          }, {
+            "item" : "Inner South",
+            "count" : 14
+          } ],
+          "smallest" : "Belconnen"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237409,
+        "name" : "Suburb",
+        "dataTypeName" : "text",
+        "fieldName" : "suburb",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18069823,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 122,
+          "largest" : "Yarralumla",
+          "null" : 0,
+          "top" : [ {
+            "item" : "Calwell",
+            "count" : 20
+          }, {
+            "item" : "Hawker",
+            "count" : 19
+          }, {
+            "item" : "Holt",
+            "count" : 18
+          }, {
+            "item" : "Kaleen",
+            "count" : 17
+          }, {
+            "item" : "Kambah",
+            "count" : 16
+          }, {
+            "item" : "Lyneham",
+            "count" : 15
+          }, {
+            "item" : "Macquarie",
+            "count" : 14
+          }, {
+            "item" : "Mawson",
+            "count" : 13
+          }, {
+            "item" : "Melba",
+            "count" : 12
+          }, {
+            "item" : "Narrabundah",
+            "count" : 11
+          }, {
+            "item" : "Nicholls",
+            "count" : 10
+          }, {
+            "item" : "O'Connor",
+            "count" : 9
+          }, {
+            "item" : "Phillip",
+            "count" : 8
+          }, {
+            "item" : "Stirling",
+            "count" : 7
+          }, {
+            "item" : "Turner",
+            "count" : 6
+          }, {
+            "item" : "Wanniassa",
+            "count" : 5
+          }, {
+            "item" : "Waramanga",
+            "count" : 4
+          }, {
+            "item" : "Watson",
+            "count" : 3
+          }, {
+            "item" : "Weetangera",
+            "count" : 2
+          }, {
+            "item" : "Weston",
+            "count" : 1
+          } ],
+          "smallest" : "Ainslie"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237410,
+        "name" : "Street",
+        "dataTypeName" : "text",
+        "fieldName" : "street",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18069824,
+        "width" : 172,
+        "cachedContents" : {
+          "non_null" : 122,
+          "largest" : "Wimmera",
+          "null" : 0,
+          "top" : [ {
+            "item" : "Were",
+            "count" : 20
+          }, {
+            "item" : "Walhallow",
+            "count" : 19
+          }, {
+            "item" : "Ormsby",
+            "count" : 18
+          }, {
+            "item" : "Verbruggen",
+            "count" : 17
+          }, {
+            "item" : "Kyeema",
+            "count" : 16
+          }, {
+            "item" : "Matina",
+            "count" : 15
+          }, {
+            "item" : "Unaipon",
+            "count" : 14
+          }, {
+            "item" : "Kelleway",
+            "count" : 13
+          }, {
+            "item" : "Clarie Hermes",
+            "count" : 12
+          }, {
+            "item" : "Pedder",
+            "count" : 11
+          }, {
+            "item" : "Macarthur Ave",
+            "count" : 10
+          }, {
+            "item" : "Burkitt",
+            "count" : 9
+          }, {
+            "item" : "Kosciusko",
+            "count" : 8
+          }, {
+            "item" : "Petherbridge",
+            "count" : 7
+          }, {
+            "item" : "Ainsworth",
+            "count" : 6
+          }, {
+            "item" : "Spoering",
+            "count" : 5
+          }, {
+            "item" : "Elimatta",
+            "count" : 4
+          }, {
+            "item" : "May Gibs",
+            "count" : 3
+          }, {
+            "item" : "Bangalay Cres",
+            "count" : 2
+          }, {
+            "item" : "Broadsmith",
+            "count" : 1
+          } ],
+          "smallest" : "Ainsworth"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237413,
+        "name" : "Ground Name",
+        "dataTypeName" : "text",
+        "fieldName" : "ground_name",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18069827,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 122,
+          "largest" : "Yarralumla 2",
+          "null" : 0,
+          "top" : [ {
+            "item" : "Narrabundah 1",
+            "count" : 20
+          }, {
+            "item" : "Narrabundah 2",
+            "count" : 19
+          }, {
+            "item" : "Narrabundah 3",
+            "count" : 18
+          }, {
+            "item" : "Narrabundah 4",
+            "count" : 17
+          }, {
+            "item" : "Narrabundah 5",
+            "count" : 16
+          }, {
+            "item" : "Narrabundah 6",
+            "count" : 15
+          }, {
+            "item" : "Ngunnawal 1",
+            "count" : 14
+          }, {
+            "item" : "Nicholls 1",
+            "count" : 13
+          }, {
+            "item" : "Nicholls 2",
+            "count" : 12
+          }, {
+            "item" : "Nicholls 3",
+            "count" : 11
+          }, {
+            "item" : "O'Connor 1",
+            "count" : 10
+          }, {
+            "item" : "O'Connor 2",
+            "count" : 9
+          }, {
+            "item" : "O'Connor 3",
+            "count" : 8
+          }, {
+            "item" : "Page 1",
+            "count" : 7
+          }, {
+            "item" : "Palmerston 1",
+            "count" : 6
+          }, {
+            "item" : "Pearce 1",
+            "count" : 5
+          }, {
+            "item" : "Phillip 1",
+            "count" : 4
+          }, {
+            "item" : "Phillip 2",
+            "count" : 3
+          }, {
+            "item" : "Phillip 3",
+            "count" : 2
+          }, {
+            "item" : "Phillip 4",
+            "count" : 1
+          } ],
+          "smallest" : "Ainslie 1"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237411,
+        "name" : "Block No. ",
+        "dataTypeName" : "number",
+        "fieldName" : "block_no",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069825,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 121,
+          "average" : "14.03305785123967",
+          "largest" : "93",
+          "null" : 1,
+          "top" : [ {
+            "item" : "2",
+            "count" : 20
+          }, {
+            "item" : "5",
+            "count" : 19
+          }, {
+            "item" : "24",
+            "count" : 18
+          }, {
+            "item" : "20",
+            "count" : 17
+          }, {
+            "item" : "12",
+            "count" : 16
+          }, {
+            "item" : "11",
+            "count" : 15
+          }, {
+            "item" : "17",
+            "count" : 14
+          }, {
+            "item" : "4",
+            "count" : 13
+          }, {
+            "item" : "1",
+            "count" : 12
+          }, {
+            "item" : "14",
+            "count" : 11
+          }, {
+            "item" : "15",
+            "count" : 10
+          }, {
+            "item" : "3",
+            "count" : 9
+          }, {
+            "item" : "13",
+            "count" : 8
+          }, {
+            "item" : "23",
+            "count" : 7
+          }, {
+            "item" : "32",
+            "count" : 6
+          }, {
+            "item" : "6",
+            "count" : 5
+          }, {
+            "item" : "9",
+            "count" : 4
+          }, {
+            "item" : "19",
+            "count" : 3
+          }, {
+            "item" : "18",
+            "count" : 2
+          }, {
+            "item" : "52",
+            "count" : 1
+          } ],
+          "smallest" : "1",
+          "sum" : "1698"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237412,
+        "name" : "Section No.",
+        "dataTypeName" : "number",
+        "fieldName" : "section_no",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069826,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 121,
+          "average" : "105.4710743801653",
+          "largest" : "856",
+          "null" : 1,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          }, {
+            "item" : "12",
+            "count" : 19
+          }, {
+            "item" : "798",
+            "count" : 18
+          }, {
+            "item" : "13",
+            "count" : 17
+          }, {
+            "item" : "3",
+            "count" : 16
+          }, {
+            "item" : "50",
+            "count" : 15
+          }, {
+            "item" : "117",
+            "count" : 14
+          }, {
+            "item" : "59",
+            "count" : 13
+          }, {
+            "item" : "47",
+            "count" : 12
+          }, {
+            "item" : "26",
+            "count" : 11
+          }, {
+            "item" : "34",
+            "count" : 10
+          }, {
+            "item" : "78",
+            "count" : 9
+          }, {
+            "item" : "39",
+            "count" : 8
+          }, {
+            "item" : "23",
+            "count" : 7
+          }, {
+            "item" : "494",
+            "count" : 6
+          }, {
+            "item" : "27",
+            "count" : 5
+          }, {
+            "item" : "15",
+            "count" : 4
+          }, {
+            "item" : "21",
+            "count" : 3
+          }, {
+            "item" : "24",
+            "count" : 2
+          }, {
+            "item" : "666",
+            "count" : 1
+          } ],
+          "smallest" : "1",
+          "sum" : "12762"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237414,
+        "name" : "Ground Type",
+        "dataTypeName" : "text",
+        "fieldName" : "ground_type",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18069828,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 122,
+          "largest" : "NHO",
+          "null" : 0,
+          "top" : [ {
+            "item" : "DPF",
+            "count" : 20
+          }, {
+            "item" : "EO",
+            "count" : 19
+          }, {
+            "item" : "NHO",
+            "count" : 18
+          }, {
+            "item" : "IFU",
+            "count" : 17
+          }, {
+            "item" : "CRIP",
+            "count" : 16
+          } ],
+          "smallest" : "CRIP"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237415,
+        "name" : "Irrigation Status",
+        "dataTypeName" : "text",
+        "fieldName" : "irrigation_status",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18069829,
+        "width" : 304,
+        "cachedContents" : {
+          "non_null" : 122,
+          "largest" : "Partial Off",
+          "null" : 0,
+          "top" : [ {
+            "item" : "ON",
+            "count" : 20
+          }, {
+            "item" : "Fully Off",
+            "count" : 19
+          }, {
+            "item" : "On",
+            "count" : 18
+          }, {
+            "item" : "Partial Off",
+            "count" : 17
+          } ],
+          "smallest" : "Fully Off"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237416,
+        "name" : "Training Lights",
+        "dataTypeName" : "text",
+        "fieldName" : "training_lights",
+        "position" : 9,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18069830,
+        "width" : 280,
+        "cachedContents" : {
+          "non_null" : 122,
+          "largest" : "YES",
+          "null" : 0,
+          "top" : [ {
+            "item" : "YES",
+            "count" : 20
+          }, {
+            "item" : "NO",
+            "count" : 19
+          } ],
+          "smallest" : "NO"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237417,
+        "name" : "Comp Lights",
+        "dataTypeName" : "text",
+        "fieldName" : "comp_lights",
+        "position" : 10,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18069831,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 122,
+          "largest" : "YES",
+          "null" : 0,
+          "top" : [ {
+            "item" : "NO",
+            "count" : 20
+          }, {
+            "item" : "YES",
+            "count" : 19
+          } ],
+          "smallest" : "NO"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237418,
+        "name" : "Toilets",
+        "dataTypeName" : "text",
+        "fieldName" : "toilets",
+        "position" : 11,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18069832,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 122,
+          "largest" : "YES",
+          "null" : 0,
+          "top" : [ {
+            "item" : "YES",
+            "count" : 20
+          }, {
+            "item" : "NO",
+            "count" : 19
+          } ],
+          "smallest" : "NO"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237419,
+        "name" : "Change Rooms",
+        "dataTypeName" : "text",
+        "fieldName" : "change_rooms",
+        "position" : 12,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18069833,
+        "width" : 244,
+        "cachedContents" : {
+          "non_null" : 122,
+          "largest" : "YES",
+          "null" : 0,
+          "top" : [ {
+            "item" : "NO",
+            "count" : 20
+          }, {
+            "item" : "YES",
+            "count" : 19
+          } ],
+          "smallest" : "NO"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237426,
+        "name" : "Canteen",
+        "dataTypeName" : "text",
+        "fieldName" : "canteen",
+        "position" : 13,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18069834,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 122,
+          "largest" : "YES",
+          "null" : 0,
+          "top" : [ {
+            "item" : "YES",
+            "count" : 20
+          }, {
+            "item" : "NO",
+            "count" : 19
+          } ],
+          "smallest" : "NO"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237440,
+        "name" : "Store Room",
+        "dataTypeName" : "text",
+        "fieldName" : "store_room",
+        "position" : 14,
+        "renderTypeName" : "text",
+        "tableColumnId" : 18069835,
+        "width" : 220,
+        "cachedContents" : {
+          "non_null" : 122,
+          "largest" : "YES",
+          "null" : 0,
+          "top" : [ {
+            "item" : "YES",
+            "count" : 20
+          }, {
+            "item" : "NO",
+            "count" : 19
+          } ],
+          "smallest" : "NO"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237449,
+        "name" : "Number of Australian Rules Grounds",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_australian_rules_grounds",
+        "position" : 15,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069836,
+        "width" : 508,
+        "cachedContents" : {
+          "non_null" : 23,
+          "average" : "1.391304347826087",
+          "largest" : "2",
+          "null" : 99,
+          "top" : [ {
+            "item" : "2",
+            "count" : 20
+          }, {
+            "item" : "1",
+            "count" : 19
+          } ],
+          "smallest" : "1",
+          "sum" : "32"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237450,
+        "name" : "Number of Athletics Grounds",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_athletics_grounds",
+        "position" : 16,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069837,
+        "width" : 424,
+        "cachedContents" : {
+          "non_null" : 11,
+          "average" : "1",
+          "largest" : "1",
+          "null" : 111,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          } ],
+          "smallest" : "1",
+          "sum" : "11"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237451,
+        "name" : "Number of Baseball Grounds",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_baseball_grounds",
+        "position" : 17,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069838,
+        "width" : 412,
+        "cachedContents" : {
+          "non_null" : 8,
+          "average" : "3.375",
+          "largest" : "7",
+          "null" : 114,
+          "top" : [ {
+            "item" : "2",
+            "count" : 20
+          }, {
+            "item" : "4",
+            "count" : 19
+          }, {
+            "item" : "3",
+            "count" : 18
+          }, {
+            "item" : "5",
+            "count" : 17
+          }, {
+            "item" : "7",
+            "count" : 16
+          }, {
+            "item" : "1",
+            "count" : 15
+          } ],
+          "smallest" : "1",
+          "sum" : "27"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237452,
+        "name" : "Number of Cricket Concrete",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_cricket_concrete",
+        "position" : 18,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069839,
+        "width" : 412,
+        "cachedContents" : {
+          "non_null" : 20,
+          "average" : "1",
+          "largest" : "1",
+          "null" : 102,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          } ],
+          "smallest" : "1",
+          "sum" : "20"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237453,
+        "name" : "Number of Concrete Practice Nets",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_concrete_practice_nets",
+        "position" : 19,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069840,
+        "width" : 484,
+        "cachedContents" : {
+          "non_null" : 18,
+          "average" : "1",
+          "largest" : "1",
+          "null" : 104,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          } ],
+          "smallest" : "1",
+          "sum" : "18"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237454,
+        "name" : "Number of Cricket Synthetic Pitches",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_cricket_synthetic_pitches",
+        "position" : 20,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069841,
+        "width" : 520,
+        "cachedContents" : {
+          "non_null" : 45,
+          "average" : "1.244444444444444",
+          "largest" : "3",
+          "null" : 77,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          }, {
+            "item" : "2",
+            "count" : 19
+          }, {
+            "item" : "3",
+            "count" : 18
+          } ],
+          "smallest" : "1",
+          "sum" : "56"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237455,
+        "name" : "Number of Synthetic Practice Nets",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_synthetic_practice_nets",
+        "position" : 21,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069842,
+        "width" : 496,
+        "cachedContents" : {
+          "non_null" : 22,
+          "average" : "1",
+          "largest" : "1",
+          "null" : 100,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          } ],
+          "smallest" : "1",
+          "sum" : "22"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237456,
+        "name" : "Number of Cricket Turf",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_cricket_turf",
+        "position" : 22,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069843,
+        "width" : 364,
+        "cachedContents" : {
+          "non_null" : 17,
+          "average" : "1.117647058823529",
+          "largest" : "2",
+          "null" : 105,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          }, {
+            "item" : "2",
+            "count" : 19
+          } ],
+          "smallest" : "1",
+          "sum" : "19"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237457,
+        "name" : "Number of Locked Practice Nets",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_locked_practice_nets",
+        "position" : 23,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069844,
+        "width" : 460,
+        "cachedContents" : {
+          "non_null" : 7,
+          "average" : "1",
+          "largest" : "1",
+          "null" : 115,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          } ],
+          "smallest" : "1",
+          "sum" : "7"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237458,
+        "name" : "Number of Cycling Tracks",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_cycling_tracks",
+        "position" : 24,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069845,
+        "width" : 388,
+        "cachedContents" : {
+          "non_null" : 1,
+          "average" : "1",
+          "largest" : "1",
+          "null" : 121,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          } ],
+          "smallest" : "1",
+          "sum" : "1"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237459,
+        "name" : "Number of Football Grounds",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_football_grounds",
+        "position" : 25,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069846,
+        "width" : 412,
+        "cachedContents" : {
+          "non_null" : 61,
+          "average" : "2.803278688524590",
+          "largest" : "8",
+          "null" : 61,
+          "top" : [ {
+            "item" : "2",
+            "count" : 20
+          }, {
+            "item" : "4",
+            "count" : 19
+          }, {
+            "item" : "5",
+            "count" : 18
+          }, {
+            "item" : "1",
+            "count" : 17
+          }, {
+            "item" : "7",
+            "count" : 16
+          }, {
+            "item" : "3",
+            "count" : 15
+          }, {
+            "item" : "6",
+            "count" : 14
+          }, {
+            "item" : "8",
+            "count" : 13
+          } ],
+          "smallest" : "1",
+          "sum" : "171"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237460,
+        "name" : "Number of Gridiron Grounds",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_gridiron_grounds",
+        "position" : 26,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069847,
+        "width" : 412,
+        "cachedContents" : {
+          "non_null" : 1,
+          "average" : "1",
+          "largest" : "1",
+          "null" : 121,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          } ],
+          "smallest" : "1",
+          "sum" : "1"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237461,
+        "name" : "Number of Hockey Fields",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_hockey_fields",
+        "position" : 27,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069848,
+        "width" : 376,
+        "cachedContents" : {
+          "non_null" : 3,
+          "average" : "4",
+          "largest" : "7",
+          "null" : 119,
+          "top" : [ {
+            "item" : "2",
+            "count" : 20
+          }, {
+            "item" : "7",
+            "count" : 19
+          }, {
+            "item" : "3",
+            "count" : 18
+          } ],
+          "smallest" : "2",
+          "sum" : "12"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237462,
+        "name" : "Number of Netball Fields",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_netball_fields",
+        "position" : 28,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069849,
+        "width" : 388,
+        "cachedContents" : {
+          "non_null" : 3,
+          "average" : "8",
+          "largest" : "11",
+          "null" : 119,
+          "top" : [ {
+            "item" : "9",
+            "count" : 20
+          }, {
+            "item" : "4",
+            "count" : 19
+          }, {
+            "item" : "11",
+            "count" : 18
+          } ],
+          "smallest" : "4",
+          "sum" : "24"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237463,
+        "name" : "Number of OzTag Grounds",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_oztag_grounds",
+        "position" : 29,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069850,
+        "width" : 376,
+        "cachedContents" : {
+          "non_null" : 18,
+          "average" : "4.611111111111111",
+          "largest" : "12",
+          "null" : 104,
+          "top" : [ {
+            "item" : "2",
+            "count" : 20
+          }, {
+            "item" : "4",
+            "count" : 19
+          }, {
+            "item" : "12",
+            "count" : 18
+          }, {
+            "item" : "7",
+            "count" : 17
+          }, {
+            "item" : "3",
+            "count" : 16
+          }, {
+            "item" : "10",
+            "count" : 15
+          }, {
+            "item" : "5",
+            "count" : 14
+          }, {
+            "item" : "6",
+            "count" : 13
+          }, {
+            "item" : "8",
+            "count" : 12
+          } ],
+          "smallest" : "2",
+          "sum" : "83"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237484,
+        "name" : "Number of Rugby League Fields",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_rugby_league_fields",
+        "position" : 30,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069851,
+        "width" : 448,
+        "cachedContents" : {
+          "non_null" : 45,
+          "average" : "2.177777777777778",
+          "largest" : "6",
+          "null" : 77,
+          "top" : [ {
+            "item" : "2",
+            "count" : 20
+          }, {
+            "item" : "5",
+            "count" : 19
+          }, {
+            "item" : "3",
+            "count" : 18
+          }, {
+            "item" : "1",
+            "count" : 17
+          }, {
+            "item" : "4",
+            "count" : 16
+          }, {
+            "item" : "6",
+            "count" : 15
+          } ],
+          "smallest" : "1",
+          "sum" : "98"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237492,
+        "name" : "Number of Rugby Union Fields",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_rugby_union_fields",
+        "position" : 31,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069852,
+        "width" : 436,
+        "cachedContents" : {
+          "non_null" : 46,
+          "average" : "2.195652173913043",
+          "largest" : "6",
+          "null" : 76,
+          "top" : [ {
+            "item" : "2",
+            "count" : 20
+          }, {
+            "item" : "5",
+            "count" : 19
+          }, {
+            "item" : "3",
+            "count" : 18
+          }, {
+            "item" : "1",
+            "count" : 17
+          }, {
+            "item" : "4",
+            "count" : 16
+          }, {
+            "item" : "6",
+            "count" : 15
+          } ],
+          "smallest" : "1",
+          "sum" : "101"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237493,
+        "name" : "Number of Softball Grounds",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_softball_grounds",
+        "position" : 32,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069853,
+        "width" : 412,
+        "cachedContents" : {
+          "non_null" : 9,
+          "average" : "5.777777777777778",
+          "largest" : "13",
+          "null" : 113,
+          "top" : [ {
+            "item" : "1",
+            "count" : 20
+          }, {
+            "item" : "5",
+            "count" : 19
+          }, {
+            "item" : "4",
+            "count" : 18
+          }, {
+            "item" : "6",
+            "count" : 17
+          }, {
+            "item" : "3",
+            "count" : 16
+          }, {
+            "item" : "13",
+            "count" : 15
+          }, {
+            "item" : "10",
+            "count" : 14
+          } ],
+          "smallest" : "1",
+          "sum" : "52"
+        },
+        "format" : { }
+      }, {
+        "id" : 133237494,
+        "name" : "Number of Touch Football Fields",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_touch_football_fields",
+        "position" : 33,
+        "renderTypeName" : "number",
+        "tableColumnId" : 18069854,
+        "width" : 472,
+        "cachedContents" : {
+          "non_null" : 19,
+          "average" : "6.789473684210526",
+          "largest" : "16",
+          "null" : 103,
+          "top" : [ {
+            "item" : "3",
+            "count" : 20
+          }, {
+            "item" : "4",
+            "count" : 19
+          }, {
+            "item" : "7",
+            "count" : 18
+          }, {
+            "item" : "12",
+            "count" : 17
+          }, {
+            "item" : "14",
+            "count" : 16
+          }, {
+            "item" : "10",
+            "count" : 15
+          }, {
+            "item" : "5",
+            "count" : 14
+          }, {
+            "item" : "16",
+            "count" : 13
+          }, {
+            "item" : "6",
+            "count" : 12
+          }, {
+            "item" : "8",
+            "count" : 11
+          } ],
+          "smallest" : "3",
+          "sum" : "129"
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Creative Commons Attribution 4.0 International",
+        "logoUrl" : "images/licenses/cc30by.png",
+        "termsLink" : "http://creativecommons.org/licenses/by/4.0/legalcode"
+      },
+      "metadata" : {
+        "rdfSubject" : "0",
+        "rdfClass" : "",
+        "custom_fields" : {
+          "Contributing Agency" : {
+            "Contact Email" : "Jason.Gabriel@act.gov.au",
+            "Directorate" : "Chief Minister, Treasury and Economic Development"
+          },
+          "Data Set Coverage" : {
+            "Geospatial Coverage" : "ACT",
+            "Update Regularity" : "As required"
+          }
+        },
+        "rowIdentifier" : "0",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rowLabel" : "",
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "cqpn-mbgv",
+        "displayName" : "Jason Ammann",
+        "screenName" : "Jason Ammann"
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "cqpn-mbgv",
+        "displayName" : "Jason Ammann",
+        "screenName" : "Jason Ammann"
+      },
+      "tags" : [ "sports grounds", "fields", "recreation", "govhack-community" ],
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ 1, "F60D069F-1F24-4DAF-AA33-90C3817E0926", 1, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "Ainslie", "Angus", "Ainslie 1", "2", "38", "DPF", "ON", "YES", "NO", "YES", "NO", "YES", "YES", "2", null, "2", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 2, "737DA8EC-90B5-48F8-9836-A0FCCD227883", 2, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "Ainslie", "Angus", "Ainslie 2", "5", "38", "EO", "ON", "NO", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, null, null, "1", null, null, null, null, "2", null, null, null, null, null, null ]
+, [ 3, "5BC8CD77-077B-4D04-9FD5-3C4FC1DCCAAD", 3, 1392154855, "704731", 1392154855, "704731", "{\n}", "Gungahlin", "Amaroo", "Horse Park Drive", "Amaroo 1", "2", "109", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", "2", "1", "4", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "3" ]
+, [ 4, "544AB33E-92EC-4580-8E66-C004A838EF02", 4, 1392154855, "704731", 1392154855, "704731", "{\n}", "Gungahlin", "Amaroo", "Burdekin Ave", "Amaroo 2", "2", "109", "NHO", "ON", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, "1", "1", null, null, null, "2", null, null, null, "2", "2", "2", null, "4" ]
+, [ 5, "A83D9654-B92F-41D3-A504-5DDA52C41B55", 5, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Aranda", "Banaga Pl", "Aranda 1", "24", "1", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, null, null, "1", "1", null, "2", null, null, null, "2", "2", "2", null, "4" ]
+, [ 6, "757A36A6-99AA-4BB3-99EE-F4D791556FD2", 6, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Aranda", "Bardi Pl", "Aranda 2", "24", "1", "DPF", "ON", "YES", "NO", "YES", "NO", "YES", "YES", "2", null, "3", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 7, "BE10011F-E6D6-44DA-881C-DE9EA17D5A12", 7, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Banks", "Betty Maloney Cres", "Banks 1", "20", "12", "NHO", "ON", "NO", "NO", "YES", "NO", "YES", "YES", null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 8, "4E3C28CE-490E-40BD-BA81-FC7BE5C24993", 8, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Belconnen", "Eastern Valley Way", "Belconnen 1", "2", "150", "IFU", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 9, "6C5E339F-71AD-4361-A193-E2F019F0AAC8", 9, 1392154855, "704731", 1392154855, "704731", "{\n}", "Gungahlin", "Bonner", "Burrum Burrum Cl", "Bonner 1", "12", "26", "NHO", "On", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, "1", null, null, null, null, "2", null, null, null, "2", null, null, null, "4" ]
+, [ 10, "8753B757-83BD-4971-ABBF-EA47024E00E4", 10, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Bonython", "Barr Smith Ave", "Bonython 1", "11", "21", "NHO", "On", "YES", "NO", "YES", "NO", "NO", "YES", null, null, null, null, null, "1", null, null, null, null, "2", null, null, null, null, null, null, null, null ]
+, [ 11, "81751915-985F-4DEE-8E5F-52C21F17CC5C", 11, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Calwell", "Were", "Calwell 1", "17", "798", "DPF", "ON", "YES", "NO", "YES", "NO", "YES", "YES", null, null, null, null, null, null, null, null, null, null, "4", null, null, null, "4", "2", "2", "1", "7" ]
+, [ 12, "0D08301F-FC95-4F8E-B4F2-7F957E3AC44E", 12, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Calwell", "Were", "Calwell 2", "17", "798", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, "1", null, null, null, null, null, null, null, null, "4", null, null, null, null, null, null, "5", null ]
+, [ 13, "864F4571-4192-4A40-AF0E-08E646095BCA", 13, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Calwell", "Were", "Calwell 3", "17", "798", "DPF", "ON", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, null, null, null, null, null, null, null, null, null, null, "9", null, null, null, null, null ]
+, [ 14, "DBF066B0-4574-4A93-B285-71DB0065640A", 14, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "Campbell", "Vassey", "Campbell 1", "4", "29", "NHO", "Partial Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, null, "1", "1", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 15, "A4807A6D-B04B-4A8F-AAA1-EF4E74790502", 15, 1392154855, "704731", 1392154855, "704731", "{\n}", "Weston", "Chapman", "Tauchert", "Chapman 1", "1", "13", "NHO", "ON", "NO", "NO", "YES", "NO", "YES", "YES", null, "1", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 16, "60F85D5A-09C3-487F-AFD7-DF11C9C48929", 16, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Charnwood", "Lhotsky", "Charnwood 1", "14", "112", "DPF", "On", "YES", "NO", "YES", "YES", "YES", "NO", null, "1", null, null, null, "1", "1", null, null, null, "5", null, null, null, null, null, null, null, null ]
+, [ 17, "6965727C-962C-48F0-B9AE-5D735EBEE992", 17, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Charnwood", "Leycester St", "Charnwood 2", "2", "118", "NHO", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 18, "69CE5A1A-3C7E-4230-AB07-6A42FB0BFEFB", 18, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Chifley", "Chifley Pl", "Chifley 1", "12", "7", "IFU", "Fully Off", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 19, "F66069C2-7FE7-4200-927C-BC23B2F4C07D", 19, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Chisholm", "Proctor", "Chisholm 1", "15", "575", "DPF", "ON", "NO", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, null, null, "2", "1", null, null, null, "7", null, null, null, null, null, null ]
+, [ 20, "CDA03333-8DD7-4BB5-A9DF-8A2ED63B9041", 20, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Chisholm", "Truganini St", "Chisholm 2", "1", "549", "NHO", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 21, "201F1994-1615-4731-A7E4-41BF5E51FD3D", 21, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Conder", "Tom Roberts", "Conder 1", "3", "286", "NHO", "ON", "YES", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, "1", null, null, null, null, "2", null, null, null, null, "2", "2", null, null ]
+, [ 22, "08F3B7B1-C33F-4F51-96EA-850B8D53BC62", 22, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Cook", "Biffen", "Cook 1", "12", "13", "NHO", "ON", "NO", "NO", "YES", "NO", "YES", "YES", null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 23, "4BCC7FF5-ECE4-4E25-81D3-0632FDD20CF6", 23, 1392154855, "704731", 1392154855, "704731", "{\n}", "Gungahlin", "Crace", "Narden", "Crace", "2", "45", "CRIP", "ON", "YES", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 24, "8AA30A06-EFDF-4EF5-B1CD-66FF53FCB61F", 24, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Curtin", "Dunstan", "Curtin 1", "13", "106", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, null, "5", null, null, "1", null, null, null, null, "1", null, null, null, null, "5", "5", null, null ]
+, [ 25, "A3C636D3-C413-4FFB-A9FA-FBF792B21EB1", 25, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Curtin", "Carrathers", "Curtin 2", "4", "60", "NHO", "ON", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, "1", "1", null, null, null, null, null, "2", null, null, null, null, "2", "2", null, null ]
+, [ 26, "72B173DF-4584-4F5B-8FFC-5D184C2250A9", 26, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Deakin", "Denison", "Deakin 1", "4", "65", "DPF", "ON", "YES", "NO", "YES", "NO", "NO", "YES", null, null, null, null, null, "1", "1", null, null, null, "2", null, null, null, null, null, null, null, null ]
+, [ 27, "EA890C3E-20C1-404E-934A-05A49000092C", 27, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Deakin", "Makin", "Deakin 2", "23", "68", "DPF", "ON", "YES", "YES", "YES", "YES", "YES", "YES", null, null, null, null, null, "2", null, "1", "1", null, null, null, "3", "4", "12", null, null, null, "12" ]
+, [ 28, "1DD1C572-CC50-414C-8AA3-A8945ED48E75", 28, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "Dickson", "Antill", "Dickson 1", "4", "76", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, "1", null, null, null, "3", null, null, null, null, "7", null, null, null, "7", "2", "2", null, "14" ]
+, [ 29, "45696060-87A8-49DC-891B-4A1CAAF5AAB5", 29, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "Downer", "Melba", "Downer 1", "2", "73", "NHO", "ON", "YES", "NO", "YES", "NO", "YES", "YES", null, null, null, null, "1", null, null, null, null, null, "3", null, null, null, "3", "3", "3", "4", "3" ]
+, [ 30, "A2938BCC-435E-4BA9-8944-B0D69F3AFE3C", 30, 1392154855, "704731", 1392154855, "704731", "{\n}", "Weston", "Duffy", "Tantangara", "Duffy 1", "1", "54", "NHO", "ON", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, "1", "1", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 31, "54750DF0-E93A-46BF-A51E-21DBC9B8F518", 31, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Evatt", "Jacobs", "Evatt 1", "1", "12", "NHO", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, "1", null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 32, "EEE55884-BEFA-4D20-B15D-79F11894BD6A", 32, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Evatt", "Ligertwood", "Evatt 2", "3", "89", "IFU", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 33, "F36F08CF-8B9C-4CDF-80B5-9BB760043803", 33, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Farrer", "Lambrigg", "Farrer 1", "3", "25", "NHO", "Fully Off", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, "1", "1", null, null, null, null, null, "2", null, null, null, null, "1", "1", null, null ]
+, [ 34, "801005E1-747E-4DB3-A090-1A4F6BD63F67", 34, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Florey", "Kesteven", "Florey 1", "32", "143", "NHO", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 35, "DA65415E-C484-4F64-A505-BC7AD559E49C", 35, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Flynn", "Sanders", "Flynn 1", "6", "18", "IFU", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 36, "7A22F82A-7D65-4099-8431-11128DDB97A4", 36, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Garran", "Kitchener", "Garran 1", "9", "33", "NHO", "ON", "YES", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, "1", null, null, null, null, "2", null, null, null, null, "2", "2", null, null ]
+, [ 37, "F1ADB2BB-9AB8-492E-B14B-4C7EBD3B6B6C", 37, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Gilmore", "Heagney", "Gilmore 1", "6", "58", "NHO", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 38, "04FC32D8-1BFC-43EC-848E-06B6A6B13C42", 38, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Giralang", "Canopus Cres", "Giralang 1", "19", "85", "DPF", "ON", "YES", "NO", "YES", "NO", "YES", "YES", null, null, null, null, null, null, null, null, null, null, "4", null, null, null, null, null, null, null, null ]
+, [ 39, "F4CA92BF-9D87-4564-BD92-B99B61C90F46", 39, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Giralang", "Tucana", "Giralang 2", "19", "85", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "NO", "1", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 40, "5DF3F878-1B86-402C-87A4-487EC6955F36", 40, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Gordon", "Midge", "Gordon 1", "18", "410", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", "2", null, null, null, null, "1", null, null, null, null, "1", null, null, null, null, "1", "1", null, null ]
+, [ 41, "EF2C4EEF-CB26-4F35-AA8A-C69BBB23E880", 41, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Conder", "Heidelberg", "Gordon 2", "13", "211", "DPF", "ON", "YES", "NO", "YES", "NO", "YES", "YES", "1", null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 42, "29FFC18A-3BF5-4F0D-A4C5-620547C6BC4E", 42, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Gowrie", "Castleton", "Gowrie 1", "12", "228", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "NO", null, null, null, null, "1", "3", "1", null, null, null, "3", null, null, null, "10", "5", "5", null, "10" ]
+, [ 43, "F859FF9B-868C-4429-AA5C-A1DED620A06E", 43, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Greenway", "Soward", "Greenway 1", "15", "46", "EO", "ON", "YES", "YES", "YES", "YES", "YES", "YES", "1", null, null, null, null, null, null, null, null, null, "1", null, null, null, null, "1", "1", null, null ]
+, [ 44, "9365562D-D3F5-41A3-9DDE-09C2BA47E1A8", 44, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner South", "Griffith", "Captain Cook Cres", "Griffith 1", "17", "42", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "2", "2", null, null ]
+, [ 45, "A05756A9-7109-44C8-8623-E267DB54B077", 45, 1392154855, "704731", 1392154855, "704731", "{\n}", "Gungahlin", "Gungahlin", "Crinigan", "Gungahlin 1", "1", "17", "EO", "On", "YES", "YES", "YES", "YES", "YES", "YES", "1", null, null, null, null, null, null, null, null, null, "1", null, null, null, null, "1", "1", null, null ]
+, [ 46, "A66EAF35-8E16-400B-A59A-AA963E8D6867", 46, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "Hackett", "Madigan", "Hackett 1", "15", "12", "NHO", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, "1", "1", null, null, null, "2", null, null, null, null, null, null, null, null ]
+, [ 47, "A8E843BA-FEC3-4044-A80A-06BB19DB0667", 47, 1392154855, "704731", 1392154855, "704731", "{\n}", "Gungahlin", "Hall", "Gladstone", "Hall 1", "5", "20", "NHO", "ON", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, "1", null, null, null, null, null, null, "1", null, null, null, null, "1", "1", null, null ]
+, [ 48, "B5FB9017-F8B8-4296-9849-63C8C21D5DDE", 48, 1392154855, "704731", 1392154855, "704731", "{\n}", "Gungahlin", "Harrison", "Katoomba", "Harrision 1", "15", "2", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, null, "1", "2", "1", null, "4", null, null, null, null, null, null, null, null ]
+, [ 49, "B6CFB579-45AA-43EB-8A50-9EFAAF652991", 49, 1392154855, "704731", 1392154855, "704731", "{\n}", "Gungahlin", "Harrison", "Wimmera", "Harrision 2", "19", "2", "NHO", "ON", "YES", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, "1", null, null, null, null, "2", null, null, null, null, "2", "2", null, null ]
+, [ 50, "B72AAEE9-2DBC-42E0-8466-676D5165E2FB", 50, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Hawker", "Murranji", "Hawker 1", "12", "3", "DPF", "ON", "YES", "NO", "YES", "NO", "YES", "YES", null, null, null, null, null, null, null, null, null, null, "3", null, null, null, null, null, null, "6", null ]
+, [ 51, "3D87B0E0-5232-4B0D-998B-A78149F7517E", 51, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Hawker", "Walhallow", "Hawker 2", "12", "3", "DPF", "ON", "NO", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, null, null, null, null, null, "3", null, null, null, null, null, null, "6", null ]
+, [ 52, "EBDA0AE3-EE58-46EE-8466-ACA43444DDC4", 52, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Hawker", "Walhallow", "Hawker 4", "11", "3", "EO", "ON", "YES", "YES", "YES", "YES", "YES", "YES", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, "3", null ]
+, [ 53, "95674E5E-DFCF-4858-9900-A199E8B50C56", 53, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Higgins", "Fullagar", "Higgins 1", "19", "10", "IFU", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, "1", "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 54, "F1C4F9A6-94EA-4B31-AC6B-9EC01BD14673", 54, 1392154855, "704731", 1392154855, "704731", "{\n}", "Weston", "Holder", "Weingarth", "Holder 1", "1", "23", "IFU", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, "1", "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 55, "8025E362-16F2-42CD-9172-9B37D1B6DCA7", 55, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Holt", "Ormsby", "Holt 1", "52", "50", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "NO", "2", null, null, null, null, null, "1", "1", "1", null, null, null, null, null, null, null, null, null, null ]
+, [ 56, "5C3FE1FC-3C17-42DD-8BD7-A1040BC15C4D", 56, 1392154855, "704731", 1392154855, "704731", "{\n  \"invalidCells\" : {\n    \"18069825\" : \"52       47\",\n    \"18069826\" : \"50             51\"\n  }\n}", "Belconnen", "Holt", "Moyes", "Holt 2", null, null, "DPF", "Partial Off", "YES", "NO", "NO", "YES", "YES", "NO", null, null, null, null, null, null, null, null, null, null, "4", null, null, null, "5", "4", "4", null, "5" ]
+, [ 57, "50191F41-AC4D-4F6A-AB26-BCF39ABE7424", 57, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Holt", "Ormsby", "Holt 3", "51", "50", "EO", "ON", "YES", "NO", "YES", "YES", "YES", "YES", "1", null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 58, "CF9D651A-E9FE-4444-BD56-3009741D23A8", 58, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Holt", "Pickworth", "Holt 4", "1", "13", "IFU", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 59, "E37D20B2-1583-4513-882F-2FD2203BF0E0", 59, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Hughes", "Webster", "Hughes 1", "7", "28", "NHO", "ON", "YES", "NO", "YES", "YES", "YES", "YES", "2", null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 60, "AF7D328B-8914-4037-8622-E65D2998FA9C", 60, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Isabella Plains", "Cromwell", "Isabella 1", "40", "856", "NHO", "On", "YES", "NO", "YES", "NO", "NO", "NO", "2", null, null, null, null, "1", "1", null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 61, "50C21B53-64AB-411B-8E28-422B49037041", 61, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Kaleen", "Diamantina", "Kaleen 1", "26", "117", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, "2", null, null, null, null, "6", null, null, null, "6", "4", "4", "13", null ]
+, [ 62, "A5ADC235-3C26-4778-A3D0-F99D2644CD6A", 62, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Kaleen", "Turon", "Kaleen 2", "25", "117", "EO", "ON", "NO", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, null, null, "1", null, null, "2", null, null, null, null, null, null, null, null ]
+, [ 63, "0D96B3AD-1CE1-40CA-8C34-E05B8C731D5E", 63, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Kaleen", "Ashburton", "Kaleen 3", "4", "76", "NHO", "ON", "NO", "NO", "YES", "YES", "YES", "NO", null, null, null, null, null, "1", "1", null, null, null, "2", null, null, null, null, "2", "2", null, null ]
+, [ 64, "5CDA41C8-EABA-44FC-A2C5-71454D89919F", 64, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Kaleen", "Maribyrnong", "Kaleen 4", "9", "149", "NHO", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 65, "DDAB8B61-8A91-4404-9ACB-0A95DCB31CF0", 65, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Kambah", "Chirnside", "Kambah 1", "12", "115", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", "1", null, null, null, null, "3", "1", null, null, null, "6", null, null, null, "8", "5", "5", null, "12" ]
+, [ 66, "BF73A74A-051E-4203-8ABA-B7B6A0A3A30A", 66, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Kambah", "Laidlaw Pl", "Kambah 2", "30", "286", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "NO", "1", null, "3", null, null, null, "1", null, null, null, "3", null, null, null, null, "2", "2", null, null ]
+, [ 67, "46E52D4D-E67A-47B7-8E92-67ABF726B5CD", 67, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Kambah", "Kett", "Kambah 3", "10", "353", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, "1", null, null, null, null, null, null, null, null, "4", null, null, null, null, null, null, null, null ]
+, [ 68, "90B6E0A7-7273-4F82-A241-8575946167C2", 68, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Latham", "Macrossan", "Latham 1", "5", "29", "NHO", "ON", "NO", "NO", "YES", "NO", "YES", "NO", null, null, null, null, null, "1", "1", null, null, null, "3", null, null, null, null, null, null, null, null ]
+, [ 69, "2A7A8A19-48AB-4D33-B7F9-F8FDAF6A227F", 69, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "Lyneham", "Brigalow", "Lyneham 1", "23", "41", "NHO", "Fully Off", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 70, "62EA398A-6A9B-4EAF-8F1A-CB8DF9484D7B", 70, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "Lyneham", "Northbourne", "Lyneham 2", "38", "59", "DPF", "ON", "YES", "YES", "YES", "YES", "YES", "YES", null, null, null, null, null, "3", null, null, null, null, "8", null, null, null, "8", "6", "6", null, "16" ]
+, [ 71, "C1B622F0-5040-4262-8E63-6972CCDA3F7A", 71, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "Lyneham", "Mouat", "Lyneham 3", "43", "59", "NHO", "Fully Off", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 72, "6DA560ED-67C6-49FA-BA43-6AAE218CBF36", 72, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Lyons", "Tooms", "Lyons 1", "9", "55", "IFU", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 73, "1D096CDE-77B7-47F8-8EBA-68FD721D9DE6", 73, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Macgregor", "Hirschfield", "Macgregor 1", "11", "58", "NHO", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, "1", "1", null, null, null, null, null, "2", null, null, null, null, "2", "2", null, null ]
+, [ 74, "F6D10302-A765-435B-8FA1-A9C34233272F", 74, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Macquarie", "Catchpole", "Macquarie 1", "1", "54", "EO", "ON", "NO", "NO", "YES", "YES", "YES", "YES", "1", null, null, null, null, null, null, "1", "1", null, null, null, null, null, null, "1", "1", null, null ]
+, [ 75, "18D79AAB-3BC8-4FD3-944D-B43B48670141", 75, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Macquarie", "Lachlan", "Macquarie 2", "24", "19", "IFU", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 76, "1E58D73E-0800-462C-AC71-B1BDDBE5E6D4", 76, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Mawson", "Beasley", "Mawson 1", "25", "47", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "NO", null, null, null, null, null, null, null, "1", null, null, "5", null, null, null, null, null, null, "4", null ]
+, [ 77, "D7FD885B-FB4B-41E8-AD5E-D66D05936EF4", 77, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Mawson", "Heard", "Mawson 2", "25", "47", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, null, null, null, null, null, "5", null, null, null, null, null, null, "10", null ]
+, [ 78, "170BEF3A-AA6F-43FD-80A1-EF569A96D682", 78, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Mawson", "Mawson Pl", "Mawson 3", "5", "17", "NHO", "ON", "YES", "NO", "YES", "NO", "YES", "YES", "2", null, null, null, "1", "1", null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 79, "25F3342B-F509-40A8-9FE9-85DA5E7DB879", 79, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "McKellar", "Bennets", "McKellar", "2", "53", "IFU", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 80, "CDA26419-0D23-4D82-ADBC-84BA6117D573", 80, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Melba", "Verbruggen", "Melba 1", "5", "26", "DPF", "Partial Off", "YES", "NO", "YES", "YES", "YES", "NO", null, null, null, null, null, "1", null, null, null, null, "2", null, null, null, "2", "2", "2", null, "4" ]
+, [ 81, "034945DB-B54C-40F4-8D97-6B5F201CA417", 81, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Melba", "Grainger", "Melba 2", "1", "61", "NHO", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, null, "1", "1", null, null, null, null, "2", null, null, null, null, "2", "2", null, null ]
+, [ 82, "B75349D3-C7A0-4078-BEC6-7EF335CF47A3", 82, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Melba", "Verbruggen", "Melba 3", "5", "26", "IFU", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 83, "A01C03F0-9C52-4BFD-9855-540C7E09B08E", 83, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner South", "Narrabundah", "Kyeema", "Narrabundah 1", "26", "34", "DPF", "ON", "YES", "YES", "YES", "YES", "NO", "NO", null, null, "7", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 84, "F89812CA-A0C8-462D-B834-65886F121BE2", 84, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner South", "Narrabundah", "Captain Cook Cres", "Narrabundah 2", "4", "64", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, "2", null, null, null, null, "2", null, null, null, null, "2", "2", null, null ]
+, [ 85, "5307634A-2352-4A1F-94A2-5E571DD68FB6", 85, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner South", "Narrabundah", "Kyeema", "Narrabundah 3", "15", "34", "EO", "Fully Off", "NO", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null ]
+, [ 86, "D3C77CFC-3432-40AC-A3F9-27A44629965A", 86, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner South", "Narrabundah", "Narupai Pl", "Narrabundah 4", "32", "34", "EO", "ON", "YES", "YES", "YES", "YES", "YES", "YES", null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 87, "5116D6EC-AFEE-4FC2-BF77-638B59E525FE", 87, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner South", "Narrabundah", "Kootara", "Narrabundah 5", "7", "124", "IFU", "Fully Off", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 88, "4B4DE17A-3543-46C3-85B7-D45A9913B2F3", 88, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner South", "Narrabundah", "Matina", "Narrabundah 6", "38", "34", "IFU", "Fully Off", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, "1", "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 89, "FE457B50-C781-4989-9560-47D01EA4E670", 89, 1392154855, "704731", 1392154855, "704731", "{\n}", "Gungahlin", "Ngunnawal", "Unaipon", "Ngunnawal 1", "75", "134", "NHO", "ON", "NO", "NO", "NO", "NO", "NO", "NO", "1", null, null, null, null, "1", null, null, null, null, "1", null, null, null, null, "1", "1", null, null ]
+, [ 90, "AF974374-BAB5-4EEB-870E-B4D9263CDE9B", 90, 1392154855, "704731", 1392154855, "704731", "{\n}", "Gungahlin", "Nicholls", "Kelleway", "Nicholls 1", "3", "73", "NHO", "Fully Off", "YES", "YES", "YES", "NO", "NO", "NO", null, "1", null, null, null, null, null, null, null, null, "2", null, null, null, null, null, null, null, null ]
+, [ 91, "72739B74-5A1D-46B6-8DCE-FB5304693B79", 91, 1392154855, "704731", 1392154855, "704731", "{\n}", "Gungahlin", "Nicholls", "Clarie Hermes", "Nicholls 2", "8", "78", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, "1", "1", null, null, null, "2", null, null, null, null, "2", "2", null, null ]
+, [ 92, "F5F34506-F597-4638-B678-DC457C84D28A", 92, 1392154855, "704731", 1392154855, "704731", "{\n}", "Gungahlin", "Nicholls", "Clarie Hermes", "Nicholls 3", "8", "78", "EO", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, "2", "2", null, null ]
+, [ 93, "EF5D3DC5-759D-4240-AE12-C4115D1DB41F", 93, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "O'Connor", "Pedder", "O'Connor 1", "4", "39", "DPF", "ON", "YES", "NO", "YES", "YES", "NO", "YES", null, null, null, null, null, null, null, "1", null, null, "1", null, null, null, "2", "2", "2", null, "3" ]
+, [ 94, "69CB023D-026A-4CB0-8B29-39D171EA5801", 94, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "O'Connor", "Macarthur Ave", "O'Connor 2", "4", "39", "DPF", "ON", "YES", "NO", "NO", "NO", "NO", "NO", null, null, null, null, null, "1", null, null, null, null, "2", null, null, null, "2", "2", "2", null, "4" ]
+, [ 95, "AD2713DE-8B79-4087-AE25-227CD3EAC3DB", 95, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "O'Connor", "Pedder", "O'Connor 3", "4", "39", "EO", "ON", "NO", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, "1", null, null, null, null, "2", null, null, null, null, "2", "2", null, null ]
+, [ 96, "63336B2E-14DA-46A5-AED1-4723B245ED72", 96, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Page", "Burkitt", "Page 1", "5", "1", "NHO", "ON", "YES", "NO", "YES", "NO", "NO", "NO", null, null, null, null, "1", "1", null, null, null, null, "2", null, null, null, null, "1", "1", null, null ]
+, [ 97, "BB562CEC-8EB2-4F71-AA71-F0E0B82C4A1D", 97, 1392154855, "704731", 1392154855, "704731", "{\n}", "Gungahlin", "Palmerston", "Kosciusko", "Palmerston 1", "7", "154", "NHO", "ON", "YES", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, "1", null, null, null, null, "2", null, null, null, null, "2", "2", null, null ]
+, [ 98, "36866E75-875C-478E-AB6D-1B187BB15229", 98, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Pearce", "Petherbridge", "Pearce 1", "16", "27", "NHO", "ON", "NO", "NO", "YES", "NO", "NO", "NO", "1", null, null, null, "1", "1", null, null, null, null, "1", null, null, null, null, "1", "1", null, null ]
+, [ 99, "482242CF-3EDE-4ADE-898F-E42C4803B9C6", 99, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Phillip", "Ainsworth", "Phillip 1", "13", "1", "EO", "ON", "NO", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, "2", "2", null, null ]
+, [ 100, "CF24729E-31DC-4274-8DDF-B8C478B67054", 100, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Phillip", "Ainsworth", "Phillip 2", "6", "1", "DPF", "ON", "YES", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, "1", null, null, null, null, "2", null, null, null, "2", "2", "2", null, "4" ]
+, [ 101, "0CA54958-F944-4C03-8A85-35CD2E852943", 101, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Phillip", "Ainsworth", "Phillip 3", "5", "131", "EO", "ON", "YES", "YES", "YES", "YES", "YES", "YES", null, "1", null, null, null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null ]
+, [ 102, "03F62092-C546-4E80-8DAB-8844AA763338", 102, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Phillip", "Spoering", "Phillip 4", "13", "23", "EO", "ON", "NO", "NO", "YES", "YES", "YES", "YES", "1", null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 103, "54759722-94D4-47D7-A14B-723D6B862049", 103, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "Reid", "Elimatta", "Reid 1", "5", "39", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", "2", null, null, null, null, null, "1", "1", null, null, null, null, null, null, null, null, null, null, null ]
+, [ 104, "62CA4B0E-3582-4C33-927B-E8838AA13324", 104, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Richardson", "May Gibs", "Richardson 1", "1", "494", "NHO", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, "1", "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 105, "43ECCEA0-25E7-491F-9959-4AF86259DE33", 105, 1392154855, "704731", 1392154855, "704731", "{\n}", "Weston", "Rivett", "Bangalay Cres", "Rivett 1", "4", "27", "NHO", "ON", "YES", "NO", "YES", "YES", "NO", "NO", null, null, null, null, null, "1", "1", null, null, null, "2", null, null, null, "3", "3", "3", null, "6" ]
+, [ 106, "A1645DA8-6907-47FE-B660-D4DC48354C43", 106, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Scullin", "Broadsmith", "Scullin 1", "5", "15", "NHO", "ON", "YES", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, "1", "1", null, null, null, "3", null, null, null, "3", "1", "1", null, "6" ]
+, [ 107, "B5E1C4A3-7243-410E-BE3E-5CDEC80B470B", 107, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Spence", "Cleary", "Spence 1", "1", "21", "NHO", "Fully Off", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, "1", "1", null, null, null, null, null, "2", null, null, null, null, "2", "2", null, null ]
+, [ 108, "A2C4FBB3-7328-4C8B-A45E-C61C7C222B6E", 108, 1392154855, "704731", 1392154855, "704731", "{\n}", "Weston", "Stirling", "Teesdale Pl", "Stirling 1", "93", "24", "EO", "ON", "YES", "NO", "YES", "YES", "YES", "YES", "1", null, null, null, null, null, null, "1", "1", null, null, null, null, null, null, null, null, null, null ]
+, [ 109, "C7758616-36A0-4D41-87A6-7C452E8F1C50", 109, 1392154855, "704731", 1392154855, "704731", "{\n}", "Weston", "Stirling", "Teesdale Pl", "Stirling 2", "93", "24", "DPF", "ON", "NO", "NO", "NO", "NO", "YES", "YES", "1", null, "2", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 110, "B428EAAA-64E5-4C4A-A839-690A48991672", 110, 1392154855, "704731", 1392154855, "704731", "{\n}", "Weston", "Stirling", "Sherratt Pl", "Stirling 4", "93", "24", "DPF", "ON", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, null, null, null, null, null, null, null, null, "11", null, null, null, null, null ]
+, [ 111, "EE996A22-A825-46DB-93DE-B552FD7A864A", 111, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Theodore", "Lawrence Wackett", "Theodore 1", "1", "666", "NHO", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 112, "6E2FD8D5-8A27-4E6D-A3DC-CD6D05B827F3", 112, 1392154855, "704731", 1392154855, "704731", "{\n}", "Woden", "Torrens", "Batchelor", "Torrens 1", "15", "20", "NHO", "Fully Off", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, "1", "1", null, null, null, null, null, "2", null, null, null, null, "2", "2", null, null ]
+, [ 113, "31F92EA4-D90B-4596-9832-96D07B8596A5", 113, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "Turner", "Masson", "Turner 1", "4", "25", "NHO", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 114, "28205840-646D-4C03-84BC-A83CDDEE18D8", 114, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Wanniassa", "Sternberg", "Wanniassa 1", "1", "140", "DPF", "ON", "YES", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, "1", "1", null, null, null, "4", null, null, null, null, null, null, null, null ]
+, [ 115, "BD878010-CB45-4053-9602-A1EDED5048EF", 115, 1392154855, "704731", 1392154855, "704731", "{\n}", "Tuggeranong", "Wanniassa", "Wheeler", "Wanniassa 2", "5", "202", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, null, null, null, null, null, "4", null, null, null, null, null, null, null, "8" ]
+, [ 116, "5E87EBB5-B3DC-466A-995C-483A3C6C9DAA", 116, 1392154855, "704731", 1392154855, "704731", "{\n}", "Weston", "Waramanga", "Badimarra", "Waramanga 1", "7", "46", "DPF", "ON", "YES", "NO", "YES", "YES", "YES", "NO", null, null, null, null, null, "1", "1", null, null, null, "8", null, null, null, null, "1", "1", null, null ]
+, [ 117, "27B0C634-04BE-4101-B216-73D103CA9689", 117, 1392154855, "704731", 1392154855, "704731", "{\n}", "Weston", "Waramanga", "Walpiri", "Waramanga 2", "2", "42", "DPF", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, "1", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 118, "970F4DB7-3E29-4022-AA4D-92050FB61B37", 118, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner North", "Watson", "Knox", "Watson 1", "8", "21", "NHO", "On", "NO", "NO", "YES", "NO", "NO", "NO", null, null, null, null, null, "1", "1", null, null, null, "2", null, null, null, null, "2", "2", null, null ]
+, [ 119, "05921676-BCFE-42CA-B28B-DBE5DE596942", 119, 1392154855, "704731", 1392154855, "704731", "{\n}", "Belconnen", "Weetangera", "Southwell", "Weetangera 1", "3", "20", "NHO", "On", "YES", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, "1", "1", null, null, null, null, null, null, null, null, null, "3", null, null ]
+, [ 120, "5A88A7CB-1936-4E71-A6B4-DC2968D1AE5A", 120, 1392154855, "704731", 1392154855, "704731", "{\n}", "Weston", "Weston", "Hilder", "Weston 1", "3", "95", "IFU", "Fully Off", "NO", "NO", "NO", "NO", "NO", "NO", null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null ]
+, [ 121, "50CE82B0-CE14-4B6F-B07F-F8F817E7C7F4", 121, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner South", "Yarralumla", "Mueller", "Yarralumla 1", "13", "82", "NHO", "ON", "YES", "NO", "YES", "YES", "YES", "YES", null, null, null, null, null, "1", null, null, null, null, "3", "1", null, null, null, null, null, null, null ]
+, [ 122, "B4A2BCBA-9354-455B-AB47-328FA2EF47AD", 122, 1392154855, "704731", 1392154855, "704731", "{\n}", "Inner South", "Yarralumla", "Banks", "Yarralumla 2", "4", "4", "NHO", "ON", "NO", "NO", "YES", "NO", "YES", "YES", "1", null, null, null, null, null, null, "1", null, null, null, null, null, null, null, null, null, null, null ]
+ ]
+}
