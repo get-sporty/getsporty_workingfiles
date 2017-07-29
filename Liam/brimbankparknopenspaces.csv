@@ -1,0 +1,327 @@
+"Site_Code","Site_Name","Category","Area","Long","Lat"
+"P0002","Ainsworth Reserve","Neighbourhood Park",23385.69,144.800904,-37.786788
+"P0004","April/Trevose Reserve","Local Park",2916.83,144.770285,-37.750134
+"P0003","Antwerp Drive Reserve","Neighbourhood Park",6132.79,144.810706,-37.722008
+"P0006","Arthur Street Reserve","Neighbourhood Park",1725.94,144.805972,-37.733742
+"P0007","Ashton Avenue Reserve","Local Park",5423.67,144.823945,-37.744678
+"P0009","Austral/Sheldon Reserve","Neighbourhood Park",977.00,144.805316,-37.794025
+"P0012","King Edward Avenue Reserve","Neighbourhood Park",1395.21,144.823288,-37.781677
+"P0013","Beachley Reserve","Neighbourhood Park",31000.80,144.823617,-37.797099
+"P0015","Bennett/Roberts Reserve","Local Park",2192.52,144.815531,-37.801589
+"P0016","Bickley/McCoubrie Reserve","Local Park",2796.72,144.827496,-37.802028
+"P0018","Biggs/William Street Reserve","Suburban Park",13558.87,144.815802,-37.738055
+"P0019","Billingham/Birchwood Reserve","Local Park",5414.89,144.769455,-37.75842
+"P0021","Parmelia Drive Reserve","Neighbourhood Park",27662.83,144.785284,-37.70485
+"P0023","Bridget/Gum Reserve","Local Park",4376.30,144.774712,-37.740232
+"P0024","Bundeena Avenue Reserve","Neighbourhood Park",3844.07,144.824752,-37.730271
+"P0025","Bundeena/Valewood Reserve","Local Park",4659.45,144.825376,-37.732185
+"P0027","Burton Close Reserve","Local Park",2287.94,144.804511,-37.718991
+"P0028","Cadiz Place Reserve","Local Park",9919.64,144.811013,-37.718643
+"P0029","Calais/Delbridge Reserve","Suburban Park",10881.88,144.760524,-37.698778
+"P0030","Calder Park/Community Hub Reserve","Neighbourhood Park",18637.22,144.755531,-37.703003
+"P0035","Clarke/Station Reserve","Local Park",1564.51,144.819625,-37.745428
+"P0039","Cohuna Court Reserve","Local Park",2711.24,144.803896,-37.706314
+"P0040","Collinson Street Reserve","Neighbourhood Park",1595.44,144.856889,-37.723761
+"P0041","Copernicus/Morris Reserve","Local Park",5708.74,144.801666,-37.721231
+"P0043","Corunna Avenue Reserve","Neighbourhood Park",2076.02,144.782352,-37.73142
+"P0045","Cowley Street Reserve","Neighbourhood Park",10367.39,144.769454,-37.714415
+"P0046","Cowper Avenue Reserve","Neighbourhood Park",5901.02,144.821736,-37.742513
+"P0048","Cromwell Road Reserve","Neighbourhood Park",21523.65,144.770592,-37.737289
+"P0050","Dalton Street Reserve","Suburban Park",16304.83,144.814591,-37.795839
+"P0051","Darebin/Stockwell Reserve","Local Park",6670.72,144.792657,-37.714709
+"P0053","John McLeod Reserve","Neighbourhood Park",66675.48,144.777252,-37.772157
+"P0058","Dowling Street Reserve","Local Park",3377.45,144.829507,-37.736703
+"P0059","Driscolls Road Reserve","Neighbourhood Park",3224.55,144.82666,-37.73505
+"P0061","Eisner/Woods Street Reserve","Local Park",2087.00,144.812275,-37.735964
+"P0066","Delahey Emerald Park","Neighbourhood Park",8722.93,144.765597,-37.721459
+"P0067","G. Scholte Reserve","Local Park",966.39,144.802751,-37.730236
+"P0070","Glenmaggie Drive Reserve","Neighbourhood Park",10016.17,144.80894,-37.764034
+"P0065","Evergreen Reserve","Suburban Park",28680.86,144.764574,-37.745139
+"P0075","Willys Avenue Reserve","Neighbourhood Park",37153.24,144.795305,-37.71639
+"P0076","Harefield Crescent Reserve","Suburban Park",12959.05,144.824131,-37.737734
+"P0077","Hemel/Keynes/Stevenage Reserve","Local Park",1692.01,144.765547,-37.754027
+"P0080","International Gardens Reserve","Neighbourhood Park",28626.43,144.78565,-37.731876
+"P3064","Kororoit Creek (NS Station - Billingham)","Neighbourhood Park",71402.06,144.764925,-37.763793
+"P0091","Larisa Reserve","Neighbourhood Park",22633.59,144.81921,-37.7492
+"P0092","Lillypilly Crescent Reserve","Neighbourhood Park",1875.20,144.779217,-37.728642
+"P0095","Lloyd Reserve","Neighbourhood Park",17851.61,144.82293,-37.764136
+"P0096","Lowe Crescent Reserve","Neighbourhood Park",4676.65,144.844172,-37.787403
+"P0098","Maple Crescent Reserve","Neighbourhood Park",1868.94,144.811198,-37.753624
+"P0099","McKechnie Reserve","Local Park",44441.84,144.79809,-37.746556
+"P0103","Myuna Drive Reserve","Neighbourhood Park",7007.24,144.778111,-37.735525
+"P0105","Noble Court Reserve","Suburban Park",5577.30,144.793253,-37.796284
+"P0106","Nordic/Penrhyn Reserve","Local Park",7960.59,144.796701,-37.694458
+"P0107","Nordic/Vasa Reserve","Local Park",6464.94,144.799224,-37.696263
+"P0108","Northumberland Road Reserve","Neighbourhood Park",3560.18,144.842533,-37.768886
+"P0109","Conrad Street Reserve","Neighbourhood Park",4036.90,144.798514,-37.732679
+"P0116","Patterson Gardens","Neighbourhood Park",1085.71,144.824785,-37.721668
+"P0117","Percy Street Reserve","Local Park",4996.80,144.80481,-37.748636
+"P0215","Pioneer Park","Neighbourhood Park",69276.66,144.76025,-37.687296
+"P0119","Power Street Reserve","Park / Reserve",589.02,144.797895,-37.730122
+"P0120","Queen Victoria/Prince Albert Reserve","Local Park",12003.92,144.789266,-37.704107
+"P0121","Ralph Reserve","Local Park",17893.61,144.799106,-37.792369
+"P0124","Robert Bruce Reserve","Neighbourhood Park",32507.94,144.776381,-37.754102
+"P0126","Rushdale/Trelawny Reserve","Local Park",1563.61,144.771352,-37.735011
+"P0131","Sherbrooke Crescent Reserve","Park / Reserve",696.73,144.802549,-37.711623
+"P0133","Solomon Drive Reserve","Neighbourhood Park",14576.60,144.82984,-37.721703
+"P0135","Suffolk Road Reserve","Local Park",2042.67,144.83925,-37.772396
+"P0136","Ardeer Community Park","Suburban Park",15642.59,144.805929,-37.782716
+"P0141","Tamar Drive Reserve","Neighbourhood Park",50478.57,144.763771,-37.756139
+"P0143","Terrye Court Reserve","Local Park",4993.35,144.753784,-37.697718
+"P0150","William Street Reserve (opposite Luxford","Local Park",2577.09,144.81285,-37.737471
+"P0151","William/Woods Street Reserve","Park / Reserve",2086.40,144.812527,-37.736722
+"P0146","Verona Drive Reserve","Suburban Park",14358.50,144.796884,-37.698013
+"P0174","Stockton Run Reserve","Neighbourhood Park",12361.83,144.779259,-37.756669
+"P0176","Flowerdale Road Reserve","Park / Reserve",2620.47,144.780544,-37.759552
+"P0179","Patterson Avenue Reserve","Local Park",1061.62,144.826222,-37.717507
+"P0195","Lynch Gardens","Local Park",6151.31,144.833267,-37.779513
+"P0198","Bloomingdale/Witchwood/Woodland Reserve","Local Park",2593.61,144.767069,-37.745993
+"P0199","Capri/Porter Reserve","Local Park",1927.18,144.775731,-37.758706
+"P0200","Nicholson/Talintyre Reserve","Local Park",2538.21,144.808499,-37.79794
+"P0205","Robinson Court Reserve","Neighbourhood Park",2725.95,144.780227,-37.713132
+"P0208","Ulmara Place Reserve and Access Way","Local Park",1577.08,144.81356,-37.726559
+"P0210","Hume Drive Retarding Basin","Local Park",3036.29,144.781015,-37.710861
+"P0211","Kamarooka Street Heritage Reserve","Park / Reserve",1609.84,144.820717,-37.780205
+"P3002","Calder Park Drive/Victoria Easement","Park / Reserve",1186.95,144.759395,-37.683992
+"P3007","Frost/Taylors Road Easement","Local Park",8735.22,144.771888,-37.725085
+"P0047","Cranbourne Avenue Reserve","Park / Reserve",531.00,144.826954,-37.768257
+"P0189","Elford Green Reserve","Neighbourhood Park",7373.88,144.793387,-37.764736
+"P0073","Grantham Green Reserve","Neighbourhood Park",5930.70,144.820332,-37.755797
+"P0187","Lavender Park","Local Park",4051.44,144.790657,-37.760755
+"P0192","Lewis/Saliba Reserve","Local Park",1542.43,144.816011,-37.798342
+"P0188","Linear Park","Local Park",5566.18,144.79522,-37.761193
+"P0181","Longwood Green Reserve","Local Park",11935.25,144.781589,-37.751269
+"P0102","Moonstone/Laurel Reserve","Park / Reserve",1391.01,144.819723,-37.754978
+"P0175","O'Connors Paddock","Neighbourhood Park",10014.77,144.779604,-37.754776
+"P0186","Peppermint Grove  Reserve","Local Park",6442.84,144.797366,-37.762456
+"P0178","Roseleigh Reserve","Suburban Park",21347.22,144.773785,-37.707759
+"P0190","Waterfield Park - Stage 2","Local Park",25178.52,144.786367,-37.760741
+"P0180","Waterfield Park - Stage 1","Neighbourhood Park",54385.04,144.78351,-37.761793
+"P0191","Keilor Lodge Reserve","Neighbourhood Park",34965.73,144.777121,-37.689238
+"P0093","Lionheart Reserve (BCC)","Neighbourhood Park",19321.49,144.79171,-37.709079
+"P0194","Lionheart Reserve (EDU)","Park / Reserve",26444.62,144.791558,-37.7074
+"P0113","Packard Street Reserve","Suburban Park",10478.88,144.803155,-37.727681
+"P0122","Reed Crescent Reserve","Local Park",3235.92,144.783285,-37.700638
+"P0123","Rita Street Reserve","Neighbourhood Park",19332.14,144.791865,-37.747115
+"P0125","Roussac Reserve","Suburban Park",15552.90,144.82825,-37.756718
+"P0114","Padley Park","Neighbourhood Park",6999.41,144.809101,-37.739497
+"P0127","Rutherglen Way Reserve","Neighbourhood Park",7353.62,144.806619,-37.704844
+"P0128","Santa Monica Drive Reserve","Neighbourhood Park",3266.69,144.804255,-37.699957
+"P0132","Singer Avenue Reserve","Neighbourhood Park",9450.30,144.801599,-37.716727
+"P0134","Stagecoach Reserve","Neighbourhood Park",16483.77,144.768021,-37.702626
+"P3046","Sydenham Basin Reserve","Local Park",49663.86,144.76019,-37.695396
+"P0138","Sydenham Basin Reserve BBQ Area","Local Park",4998.51,144.760797,-37.695988
+"P0142","Tarella Drive Reserve","Local Park",2840.82,144.81434,-37.723795
+"P0145","Varna Place Reserve","Local Park",6545.34,144.807617,-37.721705
+"P0147","Wahgunyah Drive Reserve","Suburban Park",15930.60,144.82694,-37.750223
+"P0149","Wheelahan Gardens","Neighbourhood Park",16934.34,144.838544,-37.78651
+"P0152","Willys/Sunshine Avenue Reserve","Local Park",2369.96,144.803347,-37.71908
+"P0173","Station Waters Reserve","Neighbourhood Park",50817.57,144.779267,-37.762254
+"P0085","Keilor Recreation Reserve","Neighbourhood Park",47187.65,144.833702,-37.717539
+"P0202","Parsons Street Blocks","Local Park",2146.00,144.841826,-37.791335
+"P0203","Profita Reserve","Local Park",7388.91,144.769839,-37.704865
+"P0204","Reeves Estate Reserve","Local Park",10947.68,144.827504,-37.714848
+"P0206","Salamander Drive Reserve","Neighbourhood Park",16576.81,144.789939,-37.692683
+"P0209","Coolamon Street Heritage Reserve","Park / Reserve",1825.66,144.82089,-37.779224
+"P0212","Reserve side of Gladstone St., Cairnlea","Local Park",14725.52,144.780441,-37.747067
+"P3000","Bellbird Avenue Drainage Easement","Local Park",4851.62,144.785095,-37.697305
+"P3003","Deer Park Urban Forest North (Neale to P","Local Park",37566.65,144.768131,-37.753791
+"P3005","Dundee/The Basin Reserve Drainage Easeme","Park / Reserve",272.16,144.759023,-37.694738
+"P3009","Kurung/Gillespie Easement","Park / Reserve",7337.54,144.766537,-37.732506
+"P3011","McCubbin/Robertson Easement","Local Park",30975.16,144.770094,-37.692899
+"P3012","Whiteley Parade Reserve","Suburban Park",39422.24,144.772896,-37.689246
+"P3045","Robertsons Road to proposed industrial e","Park / Reserve",99141.69,144.773608,-37.68524
+"P3013","Meadowbank Drive Easement","Park / Reserve",9518.44,144.822469,-37.759981
+"P3023","Allied Drive Easement","Park / Reserve",4408.48,144.87228,-37.713197
+"P3024","Beverage Drive/Steeles Creek Area","Park / Reserve",84573.59,144.861843,-37.718874
+"P0005","Ardeer Reserve","Park / Reserve",16133.29,144.806367,-37.778244
+"P0008","Taylors Creek Linear Park","Neighbourhood Park",7580.35,144.820593,-37.711292
+"P0026","Burrowye Crescent Reserve","Local Park",2935.25,144.81549,-37.707248
+"P0031","Calder Rise Park","Suburban Park",25866.00,144.823196,-37.716365
+"P0033","Castley Reserve","Neighbourhood Park",12526.01,144.815566,-37.790849
+"P0034","Churchill Reserve","Neighbourhood Park",51499.31,144.814822,-37.733031
+"P0037","Cobb/Stockyard/Pecks Access Way","Local Park",2403.37,144.768344,-37.699402
+"P0038","Cocoparra Crescent Reserve","Neighbourhood Park",11599.10,144.799923,-37.709758
+"P0049","Cyril Clements Reserve","Neighbourhood Park",53000.76,144.778699,-37.73834
+"P0052","Davitt Reserve","Suburban Park",23768.52,144.76365,-37.761797
+"P0054","Dempster Park","Neighbourhood Park",47853.28,144.837811,-37.775204
+"P0055","Diamond Avenue Reserve","Neighbourhood Park",29300.69,144.773627,-37.745506
+"P0057","Dongola Road Reserve","Neighbourhood Park",1982.83,144.812144,-37.728284
+"P0060","Duke Street Reserve","Suburban Park",35632.95,144.849583,-37.77228
+"P0068","Garden Avenue Reserve","Local Park",616.09,144.836443,-37.726784
+"P0071","Glyndon/Station Reserve","Local Park",2892.15,144.816272,-37.743216
+"P0078","Highcombe Crescent Reserve","Neighbourhood Park",7081.16,144.791019,-37.729977
+"P0081","Jackman Crescent Reserve","Local Park",2790.27,144.825288,-37.710947
+"P0082","Jamieson Street Reserve","Suburban Park",51466.48,144.787385,-37.741194
+"P0083","Keilor Downs Recreation Reserve","Neighbourhood Park",27241.45,144.79663,-37.72345
+"P0193","Arthur Kiellerup Reserve","Park / Reserve",6193.79,144.832923,-37.718048
+"P0089","Lady Nelson/Proctor Reserve","Neighbourhood Park",7157.95,144.783108,-37.711824
+"P0090","Laffan Reserve","Park / Reserve",559.09,144.830611,-37.795772
+"P0094","Lipton Street Reserve","Local Park",4525.09,144.786663,-37.711294
+"P0104","Nickson Gardens","Neighbourhood Park",21333.92,144.805101,-37.762237
+"P0110","Odessa Avenue Reserve","Neighbourhood Park",15067.45,144.809863,-37.715869
+"P0111","Orchid Square Reserve","Neighbourhood Park",13716.53,144.764574,-37.706579
+"P0112","Overton Lea Blvd Reserve","Neighbourhood Park",24310.92,144.763627,-37.702849
+"P0183","Burnside Park","Local Park",15251.64,144.766458,-37.766527
+"P3065","Kororoit Creek (SS Station - Davitt)","Park / Reserve",76400.18,144.770385,-37.766988
+"P3050","W.R.R./Currunghi Court Easement","Park / Reserve",54925.23,144.824105,-37.756013
+"P3016","SEC Easement - Currunghi Court to Granth","Park / Reserve",25926.65,144.82393,-37.752683
+"P3018","Stradbroke Drive Reserve","Neighbourhood Park",98196.28,144.811973,-37.75074
+"P3019","SEC Easement  -  Stradbroke Drive to Deb","Park / Reserve",3765.20,144.807824,-37.750815
+"P3020","SEC Easement  -  Debenham Drive to Thorn","Park / Reserve",3650.81,144.806868,-37.750707
+"P3021","SEC Easement  -  Thorndon Drive to St. A","Park / Reserve",5352.08,144.805505,-37.750603
+"P3014","SEC Easement  -  Sunshine Avenue to Ruth","Neighbourhood Park",29450.81,144.805918,-37.709015
+"P3015","SEC Easement  -  Rutherglen Way to Wanak","Local Park",19232.93,144.808619,-37.712088
+"P3022","Taylors Lakes SEC Easement (Sunshine Ave","Local Park",45193.78,144.801062,-37.705886
+"P3071","Taylors Creek Linear Park. Parmelia to S","Flagship Park",198961.17,144.793709,-37.702364
+"P3073","Taylors Creek Linear Park. Burrowye to G","Park / Reserve",502096.73,144.817998,-37.711241
+"P3025","Booth Way/Kings Road Easement (entrance","Park / Reserve",2236.00,144.779931,-37.704301
+"P3026","Calder Park Dr - Chris Ct Easement","Park / Reserve",2409.68,144.755075,-37.698394
+"P3027","Chris Court to Hannah Avenue Drainage Ea","Park / Reserve",2006.57,144.754306,-37.699283
+"P3033","SEC Easement - Whitesides to Glengala","Neighbourhood Park",15139.18,144.809154,-37.787321
+"P3034","Fairbairn Road to Kororoit Creek Drainag","Local Park",124791.32,144.834122,-37.805095
+"P3029","SEC Easement - Cawood Drive to The Avenu","Neighbourhood Park",24480.53,144.806671,-37.80049
+"P3037","Gresham Way - Drainage Easement The Aven","Local Park",7677.10,144.803816,-37.797488
+"P3038","Keilor - Melton Road/Pintail Easement","Local Park",20432.34,144.792592,-37.698934
+"P3039","Kings/Sandpiper  - SEC Easement","Local Park",40843.30,144.786034,-37.694314
+"P3040","Kings/Robertsons Road - SEC Easement","Park / Reserve",82811.52,144.780158,-37.689866
+"P3044","Pintail/Sandpiper - SEC Easement","Neighbourhood Park",40734.48,144.790357,-37.697197
+"P3042","Malibu Grove Easement","Park / Reserve",928.14,144.803579,-37.701581
+"P3043","Neale/Station Road Easement (Icluding St","Park / Reserve",21989.63,144.772269,-37.75071
+"P3058","Kororoit Crk.(Forrest St. to Western Hig","Park / Reserve",81744.08,144.809039,-37.779366
+"P3017","SEC Easement -  Grantham Parade to Novar","Park / Reserve",26202.77,144.818737,-37.752125
+"P0042","Copernicus Way Reserve","Suburban Park",22225.88,144.790784,-37.717735
+"P0072","Delahey Recreation Reserve","Suburban Park",55470.00,144.774062,-37.716526
+"P3072","Taylors Creek Linear Park Parmelia to Ki","Park / Reserve",37917.88,144.783212,-37.699908
+"P3067","Kororoit Creek East Side Glengala to Der","Park / Reserve",7100.09,144.826418,-37.788897
+"P3069","Kororoit Creek West Side Glengala Road t","Park / Reserve",6293.07,144.825786,-37.788947
+"P3070","Kororoit Creek West Side Derby Street to","Park / Reserve",37621.91,144.825723,-37.792377
+"P3062","Kororoit Creek - Learmonth to Wright","Park / Reserve",103526.42,144.821933,-37.801136
+"P3076","Drainage Easement at Grassy Point Road b","Park / Reserve",4055.06,144.777394,-37.762563
+"P3094","Rail land south of line at rear of Mckay","Park / Reserve",6991.68,144.828892,-37.783377
+"P3095","Rail land north of line at rear of McKay","Park / Reserve",2223.43,144.828509,-37.782234
+"P0219","Shearwater Meadow Reserve","Neighbourhood Park",35068.88,144.785615,-37.756225
+"P0044","Solent Crescent Reserve","Neighbourhood Park",5395.48,144.786056,-37.708627
+"P1667","Community Hub/Hannah Access Way","Park / Reserve",1119.96,144.752911,-37.701636
+"P0172","Nancy Street Reserve","Neighbourhood Park",9139.24,144.794357,-37.784394
+"P0101","More Park","Neighbourhood Park",98671.99,144.796041,-37.774835
+"P0064","Eurora/Koroit Place Reserve","Local Park",10337.66,144.800882,-37.707584
+"P0017","Biggs Street Reserve","Local Park",2328.35,144.813591,-37.738018
+"P0014","Bellara Crescent Reserve","Neighbourhood Park",19823.96,144.820035,-37.730546
+"P0032","Caprice Court Reserve","Neighbourhood Park",6714.68,144.792606,-37.719899
+"P0056","Dickson/Pizzey Street Reserve","Local Park",1367.23,144.83863,-37.787791
+"P0222","Capesthorne Drive Reserve","Neighbourhood Park",5485.53,144.760941,-37.79402
+"P0223","Bothwell Green Reserve","Neighbourhood Park",11242.95,144.756346,-37.791754
+"P3097","Maribynong/Overnewton Reserve","Park / Reserve",41257.35,144.825026,-37.703532
+"P3004","Deer Park Urban Forest South (Tamar to R","Park / Reserve",30422.62,144.759105,-37.760059
+"P3055","Kororoit Creek.- Billingham to Neale Roa","Park / Reserve",99308.82,144.758868,-37.755572
+"P0225","St Albans Square","Local Park",1384.48,144.8005,-37.744707
+"P3075","Creek Area (Next To Powder Mill) - Parkl","Park / Reserve",25140.82,144.777806,-37.764762
+"P3006","Frost/ Goldsmith Easement","Neighbourhood Park",67944.78,144.774005,-37.721397
+"P0144","Thea Court Reserve","Suburban Park",7482.48,144.858281,-37.719735
+"P0140","Norm Talintyre Reserve","Neighbourhood Park",24946.73,144.812171,-37.799358
+"P0086","Kings Park Reserve","Neighbourhood Park",65103.16,144.77656,-37.732197
+"P3036","Gresham Way Reserve","Neighbourhood Park",53395.91,144.805801,-37.800362
+"P1668","Empress/Harwood Reserve","Neighbourhood Park",1028.77,144.792947,-37.791379
+"P0230","Hamel Street Reserves","Park / Reserve",799.55,144.822442,-37.780571
+"P0231","Bazentin Street Reserves","Park / Reserve",686.53,144.822654,-37.779252
+"P3099","Abercairn Court Reserve","Park / Reserve",1449.45,144.759759,-37.758933
+"P1671","McLeod/Stevens Reserve","Local Park",1799.78,144.785457,-37.736096
+"P3081","Kororoit Crk. (Waterview to Eaglehawk)","Park / Reserve",72767.33,144.785564,-37.76777
+"P0228","Foxley Court Reserve No1","Park / Reserve",4114.57,144.761582,-37.807808
+"P0177","Rangeview Reserve","Local Park",2426.61,144.781407,-37.761882
+"P0184","Thorogood Reserve","Local Park",5455.84,144.779001,-37.706751
+"P0207","Station Road Peace Walk","Local Park",6401.58,144.778798,-37.743621
+"P3031","SEC Easement - Hall Street to Glengala R","Neighbourhood Park",24338.17,144.808658,-37.789718
+"P3032","SEC Easement - Ridgeway Parade to Whites","Neighbourhood Park",19099.93,144.809594,-37.785253
+"P0129","Sassella Park","Neighbourhood Park",40296.95,144.774135,-37.763894
+"P0001","Ailsa Street Reserve","Local Park",4940.01,144.836787,-37.717634
+"P0010","Australia Drive Reserve","Local Park",4701.16,144.782133,-37.705799
+"P0022","Bonfield Reserve","Neighbourhood Park",18930.58,144.837907,-37.72339
+"P0036","Cliff Harvey Lagoon Reserve","Flagship Park",17768.04,144.836444,-37.720838
+"P0063","Esplanade Reserve","Neighbourhood Park",8307.90,144.766137,-37.692844
+"P0069","Gerona Street Reserve","Park / Reserve",301.15,144.833722,-37.714517
+"P0079","Huart Reserve","Neighbourhood Park",1454.75,144.798589,-37.741724
+"P0088","Kurung Drive Reserve","Suburban Park",23369.50,144.767729,-37.730616
+"P0100","Monash/Pizzey Reserve","Neighbourhood Park",3786.41,144.839122,-37.788801
+"P0130","Selwyn Park","Neighbourhood Park",45233.96,144.81435,-37.781297
+"P0148","West Esplanade Reserve","Neighbourhood Park",1780.64,144.797405,-37.742006
+"P0182","Moorland Park","Neighbourhood Park",20139.33,144.784671,-37.749661
+"P0196","HV McKay Gardens","Heritage Gardens",16327.95,144.828628,-37.783615
+"P0197","Pollard Gardens","Neighbourhood Park",5078.77,144.830847,-37.789011
+"P0201","Isabella Williams Reserve","Flagship Park",20211.82,144.758302,-37.751297
+"P0214","Caroline Chisholm Reserve","Local Park",70312.22,144.840039,-37.720464
+"P0216","Arundel Road Bridge Area","Park / Reserve",1351.14,144.832917,-37.704314
+"P3001","Benjamin/Calder Park Drive Drainage Ease","Local Park",3072.41,144.757206,-37.697065
+"P3008","Gillespie/Main Road West Easement","Local Park",48026.11,144.763001,-37.73694
+"P3030","SEC Easement - The Avenue to Hall Street","Neighbourhood Park",44591.67,144.807159,-37.794683
+"P3056","Stephen Calleja Reserve","Park / Reserve",122012.08,144.76,-37.745436
+"P3057","Kororoit Creek (Esmond/Ballarat Rd Nth)","Park / Reserve",39430.87,144.801626,-37.776566
+"P3063","Kororoit Creek (Selwyn Park/Esmond Stree","Park / Reserve",75095.70,144.809388,-37.77942
+"P3066","Kororoit Creek (Esmond/Ballarat Rd Sth)","Park / Reserve",39343.15,144.801716,-37.776757
+"P3068","Kororoit Creek East Side Derby to Wright","Park / Reserve",38836.52,144.826467,-37.792456
+"P3074","Taylors Creek Linear Park. Sunshine Aven","Park / Reserve",112049.94,144.809947,-37.706779
+"P3091","Easement along 197 Taylors Road","Park / Reserve",4982.86,144.791369,-37.728944
+"P3110","Hatchlands Drive Tree Reserve.","Park / Reserve",171.25,144.755574,-37.776761
+"P0213","Keilor Botanical Gardens","Park / Reserve",44645.08,144.857436,-37.713085
+"P3116","Windsor Bvd./Robinsons Rd. Reserve 2","Park / Reserve",1554.51,144.754677,-37.788034
+"P3115","Windsor Bvd./RobinsonsRd. Reserve 1","Park / Reserve",1545.17,144.754754,-37.787383
+"P3117","Kororoit Creek East Side south Wasley St","Park / Reserve",7977.52,144.809718,-37.779627
+"P3118","Fairways Bvd. / Abernethy Ave.Reserve","Neighbourhood Park",9083.17,144.766978,-37.778987
+"P3119","Calarco Drive North Side Reserve 1","Park / Reserve",6442.07,144.759398,-37.79889
+"P3121","Taylors Rd., Reserve No 1/Carbine Way","Park / Reserve",1356.22,144.796068,-37.72748
+"P3122","Lanark Pl Reserve","Park / Reserve",384.28,144.76504,-37.781904
+"P0235","Central Park Bvd - Reserve No 3","Park / Reserve",592.18,144.762023,-37.781292
+"P0234","Central Park Bvd -  Reserve No 2","Park / Reserve",584.61,144.761267,-37.781226
+"P0233","Bentley Dr/Duncombe Park Way Res No 1","Neighbourhood Park",9385.82,144.761833,-37.779857
+"P3124","Clarian Street Reserve","Neighbourhood Park",14236.29,144.789299,-37.767157
+"P3125","Creek Area (Gurnung Drive North)","Neighbourhood Park",41564.16,144.778186,-37.765013
+"P3126","Creek Area (Gurnung Drive South)","Park / Reserve",16122.34,144.783913,-37.766698
+"P0084","Keilor Park Recreation Reserve","Suburban Park",456445.82,144.852956,-37.716237
+"P0074","Green Gully Reserve","Suburban Park",633246.07,144.818874,-37.72133
+"P0020","Bon Thomas Reserve","Suburban Park",133209.35,144.76245,-37.774274
+"P3128","Kenwood Green Reserve","Neighbourhood Park",1440.10,144.768498,-37.794596
+"P3129","Hammerwood Avenue Reserve","Neighbourhood Park",4382.48,144.770261,-37.786064
+"P3130","St Andrews Park","Suburban Park",15153.76,144.770033,-37.780353
+"P0115","JR Parsons Reserve","Neighbourhood Park",73344.74,144.835932,-37.795152
+"P3131","Harcourt Avenue Reserve","Local Park",665.07,144.823471,-37.743241
+"P3132","Balmoral Park","Suburban Park",76453.83,144.764965,-37.791529
+"P3134","Westminster Pkwy/Bowmont Dr Reserve","Neighbourhood Park",5440.03,144.758208,-37.783512
+"P3061","Kororoit Creek - Learmonth to Wright","Park / Reserve",101939.25,144.8204,-37.798626
+"P3135","Buckingham Reserve","Flagship Park",79331.34,144.830068,-37.799274
+"P0232","Kevin Flint Memorial Reserve","Flagship Park",194232.29,144.798938,-37.76114
+"P3136","Haddon Grn/Queensberry St Reserve","Neighbourhood Park",10113.53,144.758284,-37.785964
+"P3140","Fitzgerald Square Reserve","Neighbourhood Park",5979.44,144.791488,-37.793798
+"P3141","The Grove Reserve","Park / Reserve",1906.47,144.793243,-37.794154
+"P3060","Kororoit Creek (Glengala Road to Fraser)","Park / Reserve",26816.14,144.816274,-37.78602
+"P3059","Kororoit Crk.(Glengala Road to Fraser St","Park / Reserve",51266.64,144.818266,-37.786327
+"P3169","Hatchlands Drive/Ashgrove Drive Reserve","Neighbourhood Park",14643.47,144.75943,-37.776819
+"P3170","Proximity Drive Reserve","Park / Reserve",43871.26,144.82707,-37.815591
+"P3172","Pelister Pl/Callaway Bvd Reserve","Park / Reserve",247.71,144.796539,-37.793751
+"P3171","Sunshine Reserve","Neighbourhood Park",13652.34,144.797508,-37.794141
+"P3173","The Greenway Reserve","Park / Reserve",30768.81,144.80088,-37.794887
+"P3101","Jones Creek Wetlands","Park / Reserve",194391.31,144.795314,-37.752785
+"P0011","Barclay Reserve","Local Park",29869.17,144.826105,-37.781226
+"P3174","Erin Square Reserve","Park / Reserve",484.30,144.758571,-37.776029
+"P3175","Redgum Drive Reserve","Park / Reserve",13927.85,144.853086,-37.766074
+"P3176","Andrea Street Reserve","Park / Reserve",7825.49,144.798808,-37.748749
+"P1686","Railway Reserve Easement","Park / Reserve",33193.74,144.786792,-37.717012
+"P1051","Melton Highway Tree Reserve and Road Ver","Park / Reserve",2124.12,144.758053,-37.693969
+"P1052","Melton Highway/Sydenham Road Tree Reserv","Park / Reserve",2051.29,144.769159,-37.695909
+"P3177","Foleys Road/Davis Court Reserve","Park / Reserve",94603.75,144.785588,-37.786019
+"P3010","Magnolia Street Drainage Easement","Local Park",4339.12,144.819552,-37.753586
+"P3179","Federation Bike Trail","Park / Reserve",54280.51,144.834034,-37.817812
+"P3054","Matthews Hill Reserve","Suburban Park",88898.87,144.841193,-37.794558
+"P3180","University Park Primary School Reserve","Neighbourhood Park",9919.84,144.801922,-37.754501
+"P3181","Holmewood Avenue Park","Neighbourhood Park",2786.46,144.758186,-37.778895
+"P3178","Park Victoria External","Park / Reserve",3475120.02,144.839674,-37.735105
+"P0236","Australis Drive North Side Reserve 1","Park / Reserve",29961.36,144.760416,-37.802891
+"P0237","Australis Drive South Side Reserve 2","Park / Reserve",19806.53,144.760187,-37.805127
+"P3120","Calarco Drive South Side Reserve 2","Park / Reserve",8249.77,144.759788,-37.800641
+"P3137","Rowan Drive Reserve 1","Park / Reserve",445.97,144.826409,-37.729009
+"P3138","Rowan Drive Reserve 2","Park / Reserve",508.92,144.826879,-37.729927
+"P0062","Errington Reserve","Flagship Park",25780.72,144.803342,-37.745627
+"P3185","O'Connor Road Reserve","Local Park",6799.64,144.764681,-37.776145
+"F0117","Albanvale Primary School Park","Neighbourhood Park",6885.20,144.775245,-37.745021
+"P3186","Sunvale Reserve","Suburban Park",11980.00,144.83633,-37.782581
+"P3191","Kosa Avenue Reserve","Park / Reserve",1584.00,144.794253,-37.795454
