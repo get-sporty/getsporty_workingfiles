@@ -1,7 +1,5 @@
 #!/usr/bin/python
 
-#Uses code from http://boscoh.com/programming/reading-xml-serially.html
-
 import re   #parsing xml with regex, teehee
 
 points = {}
